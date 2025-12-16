@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+logs/process.log
+data/extracted_text/
+data/tables/

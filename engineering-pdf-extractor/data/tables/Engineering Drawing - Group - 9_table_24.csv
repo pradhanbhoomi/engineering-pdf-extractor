@@ -1,0 +1,78 @@
+0,1,2
+Lines,Description,"General applications
+  See figure and other relevant figure"
+,"Continuous thick
+Continuous thin
+(straight)
+Continuous thin
+free hand
+Continuous thin
+(Straight) with zig-zags
+Dashed thick
+Dashed thin
+Chain thin
+Chain thin, thick at ends
+& changes of direction
+Chain thick
+Chain thin double-
+dashed","A1
+Visible outlines
+A2
+Visible edges
+B1
+Imaginary lines of intersection
+B2
+Dimension lines
+B3
+projection lines or extension line
+B4
+Leader lines
+B5
+Hatching
+B6
+Outlines of revolved sections in place
+B7
+Short centre lines
+B8
+Thread line
+B9
+Diagonal line
+C1
+Limits of partial or interrupted views &
+sections, if the limit is not a chain thin
+D1
+Line (See figures)
+E1
+Hidden outlines
+E2
+Hidden edges
+F1
+Hidden outlines
+F2
+Hidden edges
+G1
+Centre lines
+G2
+Lines of symmetry
+G3
+Trajectories
+H1
+Cutting planes
+J1
+Indication of lines or surfaces to
+which a special requirement applies
+K1
+Outlines of adjacent parts
+K2
+Alternative and extreme positions of
+movable parts
+K3
+Centroidal lines
+K4
+Initial outlines prior to forming
+K5
+Parts situated in front of the cutting plane"
+"1
+This type of line is suited for production of drawings by machines.
+2
+Although two alternatives are available, it is recommended that on any one drawing, only one type of line be used.",,

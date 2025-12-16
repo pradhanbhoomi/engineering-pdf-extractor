@@ -1,0 +1,64 @@
+Field_1,Field_2,Field_3
+Lines,Description,General applications
+,,  See figure and other relevant figure
+nan,Continuous thick,A1
+,Continuous thin,Visible outlines
+,(straight),A2
+,Continuous thin,Visible edges
+,free hand,B1
+,Continuous thin,Imaginary lines of intersection
+,(Straight) with zig-zags,B2
+,Dashed thick,Dimension lines
+,Dashed thin,B3
+,Chain thin,projection lines or extension line
+,"Chain thin, thick at ends",B4
+,& changes of direction,Leader lines
+,Chain thick,B5
+,Chain thin double-,Hatching
+,dashed,B6
+,,Outlines of revolved sections in place
+,,B7
+,,Short centre lines
+,,B8
+,,Thread line
+,,B9
+,,Diagonal line
+,,C1
+,,Limits of partial or interrupted views &
+,,"sections, if the limit is not a chain thin"
+,,D1
+,,Line (See figures)
+,,E1
+,,Hidden outlines
+,,E2
+,,Hidden edges
+,,F1
+,,Hidden outlines
+,,F2
+,,Hidden edges
+,,G1
+,,Centre lines
+,,G2
+,,Lines of symmetry
+,,G3
+,,Trajectories
+,,H1
+,,Cutting planes
+,,J1
+,,Indication of lines or surfaces to
+,,which a special requirement applies
+,,K1
+,,Outlines of adjacent parts
+,,K2
+,,Alternative and extreme positions of
+,,movable parts
+,,K3
+,,Centroidal lines
+,,K4
+,,Initial outlines prior to forming
+,,K5
+,,Parts situated in front of the cutting plane
+1,nan,nan
+This type of line is suited for production of drawings by machines.,,
+2,,
+"Although two alternatives are available, it is recommended that on any one drawing, only one type of line be used.",,

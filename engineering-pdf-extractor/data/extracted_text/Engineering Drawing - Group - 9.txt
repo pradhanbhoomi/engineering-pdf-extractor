@@ -1,0 +1,2391 @@
+
+--- Page 1 ---
+
+ENGINEERING DRAWING
+(NSQF)
+1 YEAR
+Revised Syllabus - 2022
+Group 9
+Group 9 CTS Trades Covered
+Sheet Metal
+DIRECTORATE GENERAL OF TRAINING
+MINISTRY OF SKILL DEVELOPMENT & ENTREPRENEURSHIP
+GOVERNMENTOF INDIA
+NATIONAL INSTRUCTIONAL
+MEDIA INSTITUTE, CHENNAI
+Post Box No. 3142, CTI Campus, Guindy, Chennai - 600 032
+(i)
+
+--- Page 2 ---
+
+Engineering Drawing (NSQF) - 1 Year
+Group 9 - Engineering Trade
+As per Revised syllabus 2022 under CTS
+Developed & Printed by
+National Instructional Media Institute
+Post Box No.3142
+Guindy, Chennai - 600032
+INDIA
+Email: chennai-nimi@nic.in
+Website: www.nimi.gov.in
+Copyright © 2022 National Instructional Media Institute, Chennai
+First Edition : May 2022 Copies : 500
+Rs. /-
+(ii)
+
+--- Page 3 ---
+
+FOREWORD
+The Government of India has set an ambitious target of imparting skills to 30 crores people, one out of
+every four Indians, by 2020 to help them secure jobs as part of the National Skills Development Policy.
+Industrial Training Institutes (ITIs) play a vital role in this process especially in terms of providing skilled
+manpower. Keeping this in mind, and for providing the current industry relevant skill training to Trainees,
+ITI syllabus has been recently updated with the help of comprising various stakeholder's viz. Industries,
+Entrepreneurs, Academicians and representatives from ITIs.
+The National Instructional Media Institute (NIMI), Chennai, has now come up with instructional material to
+suit the revised curriculum for Engineering Drawing 1 Year NSQF Group 9 - Engineering Trade
+under CTS will help the trainees to get an international equivalency standard where their skill proficiency
+and competency will be duly recognized across the globe and this will also increase the scope of
+recognition of prior learning. NSQF trainees will also get the opportunities to promote life long learning and
+skill development. I have no doubt that with NSQF the trainers and trainees of ITIs, and all stakeholders
+will derive maximum benefits from these IMPs and that NIMI's effort will go a long way in improving the
+quality of Vocational training in the country.
+The Executive Director & Staff of NIMI and members of Media Development Committee deserve appreciation
+for their contribution in bringing out this publication.
+Jai Hind
+SHRI. ATUL KUMAR TIWARI., I.A.S.,
+Director General/Addl. Secretary
+Ministry of Skill Development & Entrepreneurship,
+Government of India.
+New Delhi - 110 001
+(iii)
+
+--- Page 4 ---
+
+PREFACE
+The National Instructional Media Institute(NIMI) was set up at Chennai, by the Directorate General of Training,
+Ministry of skill Development and Entrepreneurship, Government of India, with the technical assistance
+from the Govt of the Federal Republic of Germany with the prime objective of developing and disseminating
+instructional Material for various trades as per prescribed syllabus and Craftsman Training Programme(CTS)
+under NSQF levels.
+The Instructional materials are developed and produced in the form of Instructional Media Packages (IMPs),
+consisting of Trade Theory, Trade Practical, Test and Assignment Book, Instructor Guide, Wall charts,
+Transparencies and other supportive materials. The above material will enable to achieve overall improvement
+in the standard of training in ITIs.
+A national multi-skill programme called SKILL INDIA, was launched by the Government of India, through a
+Gazette Notification from the Ministry of Finance (Dept of Economic Affairs), Govt of India, dated 27th
+December 2013, with a view to create opportunities, space and scope for the development of talents of
+Indian Youth, and to develop those sectors under Skill Development.
+The emphasis is to skill the Youth in such a manner to enable them to get employment and also improve
+Entrepreneurship by providing training, support and guidance for all occupation that were of traditional
+types. The training programme would be in the lines of International level, so that youths of our Country can
+get employed within the Country or Overseas employment. The National Skill Qualification Framework
+(NSQF), anchored at the National Skill Development Agency(NSDA), is a Nationally Integrated Education
+and competency-based framework, to organize all qualifications according to a series of levels of Knowledge,
+Skill and Aptitude. Under NSQF the learner can acquire the Certification for Competency needed at any
+level through formal, non-formal or informal learning.
+The Engineering Drawing 1 Year NSQF Group 9 - Engineering Trade under CTS is one of the book
+developed by the core group members as per the NSQF syllabus.
+The Engineering Drawing 1 Year NSQF Group 9 - Engineering Trade under CTS as per NSQF) is the
+outcome of the collective efforts of experts from Field Institutes of DGT, Champion ITI’s for each of the
+Sectors, and also Media Development Committee (MDC) members and Staff of NIMI. NIMI wishes that the
+above material will fulfill to satisfy the long needs of the trainees and instructors and shall help the trainees
+for their Employability in Vocational Training.
+NIMI would like to take this opportunity to convey sincere thanks to all the Members and Media Development
+Committee (MDC) members.
+Chennai - 600 032 EXECUTIVE DIRECTOR
+(iv)
+
+--- Page 5 ---
+
+ACKNOWLEDGEMENT
+The National Instructional Media Institute (NIMI) sincerely acknowledge with thanks the co-operation and
+contribution of the following Media Developers to bring this IMP for the course Engineering Drawing 1 Year
+Group 9 - Engineering Trade as per NSQF.
+MEDIA DEVELOPMENT COMMITTEE MEMBERS
+Shri. M. Sangara pandian - Training Officer (Retd.)
+CTI, Govt. of India,
+Guindy, Chennai - 32.
+Shri. G. Sathiamoorthy - Jr.Training Officer - SG (Retd.)
+Govt I.T.I, Trichy, DET - Tamilnadu.
+Smt. M.V. Vijayavalli - Assistant Training Officer,
+Govt. I.T.I., Guindy, DET - Tamilnadu.
+NIMI CO-ORDINATORS
+Shri. Nirmalya Nath - Deputy General Manager,
+NIMI, Chennai - 32.
+Shri. G. Michael Johny - Manager,
+NIMI, Chennai - 32.
+NIMI records its appreciation of the Data Entry, CAD, DTP Operators for their excellent and devoted services in
+the process of development of this IMP.
+NIMI also acknowledges with thanks, the efforts rendered by all other staff who have contributed for the development
+of this book.
+(v)
+
+--- Page 6 ---
+
+INTRODUCTION
+Theory and procedure along with the related exercises for further practice
+This book on theory and procedure along with related exercises contains theoretical information on 1 Year
+Engineering drawing NSQF (Revised syllabus 2022 Group 9 - Engineering Trade) and procedure of drawing/
+sketching different exercise for further practice are also available. Wherever required, BIS specification has been
+used.
+Exercise for further practice
+The practice exercise is given with Theory and procedure for 1st Year book made obsolete as it was felt that, it is
+very difficult to work in workbook using drawing instruments. It is well known fact that, any drawing is prepared on
+suitable standard size of drawing sheets only.
+The instructor is herewith advised to go through the instructions given below and to follow them in view of imparting
+much drawing skill in the trainees.
+Acquiring the above said ability and doing small drawings is not a simple task. These books will provide a good
+platform for achieving the said skills.
+Time allotment:
+Duration of 1st Year : 40 Hrs
+Sl. No. Topic Exercise No. Time Allotment
+1 Introduction to Engineering Drawing and 1.1.01 - 1.1.05 2
+Drawing Instruments
+2 Lines and Free hand drawing 1.2.06 - 1.2.09 6
+3 Drawing 1.3.10 - 1.3.13 8
+4 Dimensioning 1.4.14 - 1.4.16 2
+5 Concept and Reading of Drawing 1.5.17 - 1.5.19 10
+6 Symbolic Representation 1.6.20 4
+7 Reading of Job drawing of related trades 1.7.21 8
+40 Hrs
+Instructions to the Instructors
+It is suggested to get the drawing prepared on A4/A3 sheets preferably on only one side. If separate table and chair
+facility is available for every trainee then it is preferred to use A3 sheets and if the drawing hall is provided with
+desks then A4 sheets may be used. However while preparing bigger drawings on A4 sheets suitable reduction
+scale to be used or multiple sheets may be used for detailed and assembly drawings.
+First the border and the title block to be drawn only for the first sheet of the chapter. Eg. for conical sections only
+first sheet will have the title block whereas the rest of the sheets of that chapter will have only borders.
+Serial number of sheet and total no. of sheets to be mentioned on each sheet.
+The completed sheet to be punched and filled in a box file/ suitable files and preserved by the trainees carefully
+after the approval of instructor, VP and Principal of the Institute.
+The file may be referred by the authority before granting the internal marks at the end of the Year.
+LEARNING / ASSESSABLE OUTCOME
+On completion of this book you shall be able to
+• Read and apply engineering drawing for different application in the field of work.
+(vi)
+
+--- Page 7 ---
+
+CONTENTS
+Exercise No. Topic of the Exercise Page No.
+Introduction to Engineering Drawing and Drawing Instruments
+1.1.01 Introduction to engineering drawing and drawing instruments 1
+1.1.02 Conventions 4
+1.1.03 Sizes and layout of drawing sheets 5
+1.1.04 Title block, its position and content 7
+1.1.05 Drawing instruments 11
+Lines and Free hand drawing
+1.2.06 Lines - Types and applications in drawing 16
+1.2.07 Free hand drawing of - Geometrical figures and block with dimension 22
+1.2.08 Free hand drawing of - Transferring measurement from the given object to
+the free hand sketches 25
+1.2.09 Free hand drawing of hand tools and measuring tools 29
+Drawing
+1.3.10 Drawing of angle & triangle 35
+1.3.11 Drawing of circle 38
+1.3.12 Drawing of square, rectangle and parallelogram 40
+1.3.13 Drawing of ellipse & parabola 42
+1.3.14 Drawing of lettering and numbering - Single stroke 46
+1.3.15 Drawing of development of surfaces - Introduction 50
+1.3.16 Drawing of development of surfaces - Procedure 52
+Dimensioning
+1.4.17 Dimensioning - Types of arrow heads and leader line with text 57
+1.4.18 Dimensioning - Position of dimensioning (aligned, unidirectional) 58
+1.4.19 Practice of dimensioning 60
+Concept and Reading of Drawing
+1.5.20 Concept and reading of drawing in - Concept of axes plane and quadrant 63
+1.5.21 Concept and reading of drawing in - Concept of orthographic projection and
+isometric projection 66
+1.5.22 Method of 1st angle and 3rd angle projections (Definition and difference) 72
+Symbolic Representation
+1.6.20 Symbolic representaion - Different symbols used in the sheet metal trade 74
+Reading of Job drawing of related trades
+1.7.21 Reading of job drawing related to sheet metal trade 77
+(vii)
+
+--- Page 8 ---
+
+SYLLABUS
+1 Year Group 9 - Revised syllabus 2022 Duration: 1 Year
+Engineering trades under CTS
+CTS Trades Covered: Mason
+S.no. Syllabus Time in Hrs
+1 Introduction to Engineering Drawing and Drawing Instruments – 2
+• Conventions
+• Sizes and layout of drawing sheets
+• Title Block, its position and content
+• Drawing Instrument
+2 Lines - Types and applications in drawing 6
+Free hand drawing of -
+• Geometrical figures and blocks with dimension
+• Transferring measurement from the given object to the free hand sketches.
+• Free hand drawing of hand tools and measuring tools.
+3 Drawing of - 8
+• Angle, Triangle, Circle, Rectangle, Square, Parallelogram, Ellipse & Parabola.
+• Lettering & Numbering - Single Stroke.
+• Development of Surfaces
+4 Dimensioning 2
+• Types of arrowhead
+• Leader line with text
+• Position of dimensioning (Unidirectional, Aligned)
+5 Concept and reading of Drawing in 10
+• Concept of axes plane and quadrant
+• Concept of Orthographic and Isometric projections
+• Method of first angle and third angle projections (definition and difference)
+6 Symbolic representation - 4
+• Different symbols used in the Sheet Metal trade.
+7 Reading of Job drawing related to Sheet Metal trade. 8
+Total 40
+(viii)
+
+--- Page 9 ---
+
+Group 9 - Engineering Trades Exercise 1.1.01
+Engineering Drawing
+Introduction to engineering drawing and drawing instruments
+Communication
+Equally important, the components shown on the drawings
+There are many different ways of communicating ideas, could be made by suitably skilled craftsmen of any
+information, instructions, requests, etc. They can be nationality provided they can “read” an engineering drawing.
+transmitted by signs or gestures, by word of mouth, in
+Conventionally prepared engineering drawings provide the
+writing, or graphically. In an industrial context the graphical
+main means of communication between the “ideas” men
+method is commonly used with communication is achieved
+(the designers and draughtsman) and the craftsmen
+by means of engineering drawings.
+(machinists, fitters, assemblers, etc.). For the
+If oral and written communicati on only were used when communication to be effective, everyone concerned must
+dealing with technical matters, misunderstandings could interpret the drawing in the same way. Only then will the
+arise, particularly in relation to shape and size. The lack finished product be exactly as the designer envisages it.
+of a universal spoken language makes communication and
+To ensure uniformity of interpretation, the British Standards
+understanding even more difficult because of the necessity
+Institution has prepared a booklet entitled BS 308:1972,
+to translate both words and meaning from one language
+Engineering Drawing Practice. Now in three parts, this
+to another.
+publication recommends the methods which should be
+However, the universally accepted methods used in adopted for the preparation of drawing used in the
+graphical communication through engineering drawings engineering industry.
+eliminate many of these difficulties and make it possible
+The standards and conventions in most common use and
+for drawing prepared by a British designer to be correctly
+hence those required for a basic understanding of engineering
+interpreted or “read” by, for example, his German, French
+drawing are illustrated and explained in this book.
+or Dutch counterparts.
+Language
+1 It is the media of communication (Fig 1)
+1
+
+--- Page 10 ---
+
+Conclusion Technical drawings
+Effective communication is possible when graphical Technical drawings allows efficient communication among
+language is supported by written language/vocal language engineers and can be kept as a record of the planning
+and vice versa. process. Since a picture is worth a thousand words, a
+technical drawing is a much more effective tool for
+Engineering drawing is a language that uses both graphical
+engineers than a written plan.
+language and written language for effective communication.
+The technical drawing, on the other hand is not subtle, or
+Engineering drawing is a graphical language that
+abstract. It does not require an understanding of its creator,
+also uses written language for effective
+only on understanding of technical drawings. A technical
+communication.
+drawing is a means of clearly and concisely communicating
+The importance of Engineering Drawing all of the information necessary to transform an idea or a
+concept in to reality. Therefore, a technical drawing often
+The economic success of any country is mainly dependent
+contains more than just a graphic representation of its
+on its industrial development. Due to globalization, any
+subject. It also contains dimensions, notes and
+industry in our country is expected to be of a global market
+specifications.
+standard. For the above-mentioned reasons, our Indian
+products require very high quality for their size, dimension, Fields of use
+fit, tolerance, and finish etc.
+Technical drawing is the preferred method of drafting in all
+To produce the best standard product, all the technical engineering fields, including, but not limited to, civil
+personnel (Engineers to Craftsman) in an industry must engineering, electrical engineering, mechanical engineering
+have a sound knowledge of engineering drawing because and architecture.
+engineering drawing is the language of engineers.
+Purpose of studying engineering drawing
+Engineering drawing is a universal language. Different
+types of lines make up their alphabets. Technical personnel 1 To develop the ability to produce simple engineering
+in any industry, including craftsman, are expected to drawing and sketches based on current practice
+communicate anything concerning a part or a component
+2 To develop the skills to read manufacturing and
+by means of drawings involving lines, symbols,
+construction drawings used in industry.
+conventions, abbreviations etc.
+3 To develop a working knowledge of the layout of plant
+With our spoken languages, it is impossible to express
+and equipment.
+the details of a job or a product. Engineering drawing
+knowledge and practise are a must for designing or 4 To develop skills in abstracting information from
+producing a component or part. Even a small mistake in calculation sheets and schematic diagrams to produce
+the drawing may reflect very badly on the product. Therefore, working drawings for manufacturers, installers and
+reading and doing engineering drawings are very essential fabricators.
+for craftsmen and engineers.
+Main types of Engineering drawing
+A drawing is a graphical representation of an object, or
+Regardless of branch of engineering the engineering drawing
+part of it, and is the result of creative thought by an engineer
+is used. However based on the major engineering
+or technician. When one person sketches a rough map in
+branches, engineering drawing can be classified as follows:
+giving direction to another, this is graphic communication.
+(Fig 2)
+Graphic communication involves using visual materials to
+relate ideas. Drawings, photographs, slides, Mechanical Engineering drawings
+transparencies, and sketches are all forms of graphic
+Some examples of mechanical engineering drawings are
+communication. Any medium that uses a graphic image
+part and assembly drawings, riveted joints, welded joints,
+to aid in conveying a message, instructions, or an idea is
+fabrication drawings, pneumatics and hydraulics drawings,
+involved in graphic communication.
+pipeline diagrams, keys coupling drawings etc. (Fig 3&4)
+One of the most widely used forms of graphic
+Electrical engineering drawing
+communication is the drawing. Technically, it can be
+defined as "a graphic representation of an idea, a Wiring diagrams of home and industries, circuit diagrams,
+concept or an entity which actually or potentially electrical installation drawings etc.
+exists in life"
+Example
+Drawing is one of the oldest forms of communicating,
+The voltage supply to a filament lamp is 10.8V. The voltage
+dating back even farther than verbal communication. The
+should be 12V. (Fig 5)
+drawing itself is a method of communicating necessary
+information about an abstract, such as an idea or concept
+or a graphic representation of some real entity, such as a
+machine part, house or tools. There are two basic types
+of drawings: Artistic and Technical drawings.
+2 Engineering Drawing : (NSQF - Revised 2022) 1st Year Group 9 : Exercise 1.1.01
+
+--- Page 11 ---
+
+Mechanical Engineering Drawings (Fig 3&4) Electrical Engineering Drawing (Fig 5)
+Electronics Engineering Drawing
+Audio amplifier (Fig 6)
+Civil Engineering Drawing (Fig 7)
+3
+
+--- Page 12 ---
+
+Group 9 - Engineering Trades Exercise 1.1.02
+Engineering Drawing
+Conventions
+TYPE CONVENTION MATERIALS
+Steel, Cast Iron, Copper and its Alloys,
+Aluminium and its alloy, etc
+Metals
+Lead, Zinc, Tin, White-metal, etc.
+Glass Glass
+Porcelain, Stoneware, Marble, Slate etc
+Packing and Insulating Asbestos, Fibre, Felt, Synthetic resin
+materials products, Paper, Cork, Linoleum,
+Rubber, Leather, Wax, insulating &
+Filling Materials etc
+Liquid Water, Oil, Petrol, Kerosene etc
+Wood Wood, Plywood etc
+Concrete Concrete
+4
+
+--- Page 13 ---
+
+Group 9 - Engineering Trades Exercise 1.1.03
+Engineering Drawing
+Sizes and layout of drawing sheets
+Size of drawing sheets (in mm): While being worked on
+or handled, the drawing sheets are prone to tear along the
+edges. So slightly larger(untrimmed) sheets are preferred.
+They are trimmed afterwards. IS:10811:1983 lays down such
+as designation of preferred trimmed and untrimmed sizes.
+Designation of sheets: The drawing sheets are designated
+by symbols such as A0, A1, A2, A3, A4 and A5. A0 being
+the largest and A5 is smallest. Table 1 below gives the
+length and breadth of the above sizes of sheets. (Trimmed
+and untrimmed)
+The relationship between two sides is same as that
+between a side of a square and its diagonal.
+TABLE 1
+Designation Trimmed size Untrimmed size
+A0 841 x 1189 880 x 1230
+A1 594 x 841 625 x 880
+A2 420 x 594 450 x 625
+A3 297 x 420 330 x 450
+A4 210 x 297 240 x 330
+A5 148 x 210 165 x 240
+Special elongated series increasing its widths, double,
+treble etc. are denoted as follows A3 x 3, A3 x 4, A4 x 3,
+A4 x 4, A4 x 5. Please refer Table 2.
+TABLE 2 The following is the method of folding printed drawing sheets
+as recommended by BIS. (Fig 3)
+Special elongated series
+Method of folding of printed drawing sheets as per
+Designation Size
+BIS SP: 46-2003
+A3 x 3 420 x 891
+When drawings sheets are in more numbers, they have to
+A3 x 4 420 x 1189
+be folded and kept in order to save the trace required for
+A4 x 3 297 x 630 preserving them (Fig 4).
+A4 x 4 297 x 841
+A4 x 5 297 x 1051
+Fig 1 & 2 shows how the sheet sizes are formed by halving/
+doubling and similarity of format.
+White drawing papers that do not turn yellow on exposure
+to air are used for finished drawings, maps, charts and
+drawings for photographic reproductions.
+For pencil layouts and working drawings, cream-coloured
+papers are best suited.
+Quality drawing paper: The drawing papers should have
+sufficient teeth or grain to take the pencil lines and
+withstand repeated erasing.
+To get uniform lines, backing paper is to be placed on the
+drawing board before fixing drawing/tracing paper,. Before
+starting the drawing, the layout should be drawn. (Ref:
+IS:10711)
+5
+
+--- Page 14 ---
+
+Method of folding printed drawing sheets (Fig 3)
+6 Engineering Drawing : (NSQF - Revised 2022) 1st Year Group 9 : Exercise 1.1.03
+
+--- Page 15 ---
+
+Group 9 - Engineering Trades Exercise 1.1.04
+Engineering Drawing
+Title block, its position and content
+Layout of drawing sheet:
+As a standard practice sufficient margins are to be provided
+on all sides of the drawing sheet. The drawing sheet should
+have drawing space and title space. A typical layout of a
+drawing sheet is shown in the (Fig 1 & 2).
+Title Block - 1
+7
+
+--- Page 16 ---
+
+Title Block - 2
+Fig 3
+Title Block - 3
+Fig 4
+8 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.1.03
+
+--- Page 17 ---
+
+Title Block - Position and content - 1
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.1.03 9
+
+--- Page 18 ---
+
+Title Block - Position and content - 2
+Item Reference on Drawing Sheet
+05 TIGHTENING PIN 01 MILD STEEL
+04 WORK PIECE 01 ANY MATL.
+03 SCREW ROD 01 STD.
+02 “U” CLAMP 01 CAST IRON
+01 “V” BLOCK 01 CAST IRON
+PART NO DESCRIPTION OF ITEM QTY/ASSY MATERIAL REMARKS
+BILL OF MATERIALS
+The drawing sheet on which the drawings to be prepared 3 Follow the same procedure for A3 drawing sheet where
+should be prepared first by following the procedure given the title block is to be drawn right side bottom corner
+below: and the border dimensions remain same.
+1 Take A4/A3 drawing sheet. 4 Title block to be drawn whenever the title of the drawing
+changes. Eg. for the geometrical construction chapter
+2 Mark the borders and draw the title block as mentioned.
+the title block may be drawn in the first sheet only where
+as on the remaining sheets borders to be drawn before
+they are used for preparing drawings.
+10 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.1.03
+
+--- Page 19 ---
+
+Group 9 - Engineering Trades Exercise 1.1.05
+Engineering Drawing
+Drawing instruments
+The following are the commonly used equipment in a
+Sl. No. Designation Blade length
+drawing office.
+Drawing board (Fig 1): Drawing board is one of the main 1 T0 1500
+item of equipment for Draughtsman. It is used for supporting
+2 T1 1000
+the drawing paper/tracing paper for making drawings. It is
+made of well-seasoned wood strips of about 25 mm thick 3 T2 700
+or masonite, free from knots and warping. It should be
+4 T3 500
+softer enough to allow insertion and removal of drawing
+pins. Two battens are fastened to the board by screws, in
+The 'T' square is used with its head against the ebony edge
+slotted joints. They prevent warping and at the same time
+of the drawing board to draw horizontal lines, and parallel
+permit expansion and contraction of the strips due to the
+lines and to guide/hold the set squares, stencils etc.
+change of moisture in the atmosphere.
+Fig 2b shows how the 'T' square is used.
+'T' square should never be used as a hammer or as a guide
+for trimming papers.
+One of the shorter edges of the drawing board is provided
+with an "ebony edge" (hardwood) fitted perfectly straight.
+Standard drawing boards are designated as follows as per
+IS:1444-1989.
+Sl. No. Designation Size (mm)
+1 D0 1500 x 1000 x 25
+2 D1 1000 x 700 x 25
+3 D2 700 x 500 x 15
+4 D3 500 x 350 x 15
+The working edge (ebony) must be straight.
+Now-a-days drawing boards are available with laminated
+surfaces. The flatness can be checked by placing a
+straight edge on its surface. If no light passes between Drafting in the machine (Fig 3): It serves the functions of
+them, the surface is perfectly flat. a Tee square, set square, protractor and scale. They come
+in different sizes and have a pattern called the 'Pantograph'
+'T' Square: It is of 'T' shape, made of well-seasoned wood.
+type. It is fitted on the top left side, edge of the drafting
+It has two parts., head/stock and blade. One of the edges
+board, mounted on an adjustable frame or table. It requires
+of the blade is the working edge. The blade is screwed to
+a large area of working place. The angle of the drafting board
+this head such that the working edge is at a right angle to
+can be adjusted by the pedal operating system. There are
+the head. (Fig 2a)
+two counterweights to balance the angular position of the
+The standard 'T' square is designated as follows with board and the drafting head. It is more suitable for the
+dimensions shown in mm; as per IS:1360-1989. production drawing office.
+11
+
+--- Page 20 ---
+
+On the other end, a protractor head H with swivelling and
+locking arrangement is fitted with two scales at right
+angles.
+The protractor head has a spring-loaded clutch relieving
+handle, which rotates and locks at 15° intervals
+automatically. For setting any angle other than multiples of
+15°, the clutch spring is released and by rotating the centre
+knob, the zero line is set to the required angle and the
+friction clutch knob is tightened. It is capable of rotating Erasing shield: When, on a drawing, if a part of a line or
+180°, thereby any angle can be set. some lines among many other lines needs to be erased or
+modified, in a normal way erasing will damage the other
+The scales are bevelled on both sides, graduates to 1:1 &
+nearby lines. In such a situation an erasing shield is
+1:2. They can be reversed with the help of dovetail slide
+effectively useful. It is a thin metallic sheet having small
+fitting.
+openings of different sizes and shapes. A suitable opening
+There is a fine adjusting mechanism on the drafting head is aligned to the line to be erased and the line is removed
+to set the scale parallel to the edge of the board. The scales by the eraser. (Fig 7)
+also can be adjusted if there is an error in measuring 90°
+between them.
+The mini drafter is an important device used for making
+drawing quickly & accurately. This instrument has the
+combination of T-square, set square, protractor and scales,
+it helps to draw the drawings at a faster rate. (Fig 4,5 & 6)
+Set square (IS:1361-1988): Transparent celluloid /Plastic
+set squares are preferred and are commonly used rather
+than ebonite ones. They are two in number, each having
+one corner with 90°. The set square with 60° & 30° of
+250 mm long and 45° of 200mm long is convenient for use.
+(Fig 8)
+12 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.05
+
+--- Page 21 ---
+
+Scales: Scales are used to transfer and or measure the
+dimensions. They are made of wood, steel, ivory, celluloid
+or plastic, stainless steel scales are more durable. different
+types of scales used are shown in Fig 9. They are either flat,
+bevel-edged or triangular cross-sections. Scales of 15cm
+long, 2cm wide or 30cm long 3.5cm wide are in general use.
+An instrument box contains the following: (Fig 13a to h)
+Protractor: A protractor is an instrument for measuring • Large compass (with attachment facility) (a)
+angles. It is semi-circular or circular and is made of a flat
+• Large divider (b)
+celluloid sheet.
+• Bow compasses(pencil/ink), bow divider (c)
+The angles can be set or measured from both sides,
+aligning the reference line and point '0' with the corner point • Lengthening bar (d)
+of the angle.
+• Pen point for attachment (e)
+Figure 10 shows how to read or set the angle. A protractor
+• Screwdriver (f)
+can also be used to divide a circle or draw sectors.
+• Lead case (g)
+• Liner (h)
+Large compass (Fig 14): It has a knee joint in one leg that
+permits the insertion of a pen or pencil point or attaching a
+lengthening bar with a pen or pencil point attached to it. It
+is used for drawing large circles/arcs and also for taking
+large measurements.
+French curves (Fig 11)
+These are made in many different shapes, normally come
+in sets of 6,12,16 etc. French curves are best suited to draw
+smooth curves/ arcs (which cannot be drawn by a compass)
+with ease. To draw a smooth curve using a french curve first
+As a rule, while drawing concentric circles,
+set it by trial against a part of the line to be drawn, then shift
+small circles should be drawn first before the
+it to the next portions.
+centre hole gets worn.
+Fig 12 shows how to use the french curve and draw smooth
+Large divider: It is used to transfer dimensions and divide
+curves. They are made of transparent celluloid (no bevel
+lines into several equal parts. Divider with adjustable joints
+edge).
+is preferable rather than plain legs. (Fig 15)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.05 13
+
+--- Page 22 ---
+
+Fig 16 shows different types of bow instruments. Adjustments
+should be made with the thumb and middle finger.
+Drop spring bow pencil and pen (Fig 17): Drop spring
+bow pencil and pen are designed for drawing multiple
+identical small circles. Example: rivet holes, drilled/ reamed
+holes. The central pin is made to move freely up and down
+through the tube attached to the pen or pencil unit.
+Inking pen or liner or ruling pen (Fig 18): It is used to
+ink the straight lines drawn with the instruments but never
+for freehand lines or lettering.
+Bow instruments: Bow pencil and bow pen compass are
+used for drawing circles of approximately 25 mm radius.
+A bow divider is used for marking or dividing smaller
+spaces. There are two types (i) Integral legs with spring
+action (ii) two legs are held with a curved spring on top with
+a handle on it.
+14 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.05
+
+--- Page 23 ---
+
+Lengthening bar (Fig 19): To draw larger circles, it is fitted Pencils, Grade and Selection (Fig 23)
+to the compass. The pencil point or pen point is inserted
+into its end.
+Replaceable spare pencils, pens and needle points for the
+compass are available in the instrument box.
+Screwdriver (Fig 20): Used for adjusting the screws of the
+instruments.
+Grades of pencils: Pencils are graded according to the
+hardness or softness of the lead.
+The hardest pencil is 9H grade and the softest pencil
+Lead case (Fig 21): Lead case is the box for holding the
+is 7B grade. The selection of the grade of pencils depends
+pencil leads.
+on the type of line work required and the paper on which it
+is used.
+Softer lead pencils are used to produce thicker and darker
+line work, but they wear out quickly. Medium grades of H
+and 2H are used for general line work as well as for lettering.
+Selection of pencils: Pencil grades vary from one brand
+Pin, Clip, Cello tape: Drawing sheet should be fastened
+to another brand. Select the grades of the pencil depending
+onto the drawing board firmly temporarily so that it does not
+upon the type of line work. For construction lines, you can
+shake during preparing the drawing. For this purpose, the
+choose 2H or 3H, for lettering and object lines grade H
+pins, clips and cello tapes are used (Fig 22)
+pencils. In general H, HB and 2H are used.
+H - medium-hard
+HB - medium-soft
+2H - hard
+Now-a-days automatic (Mechanical) pencils or clutch
+pencils are available in different sizes (lead dia. 0.3, 0.5, 0.7
+or 0.9). Leads can be replaced as per the required grade of
+hardness. They produce lines of uniform width without
+sharpening.
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.05 15
+
+--- Page 24 ---
+
+Group 9 - Engineering Trades Exercise 1.2.06
+Engineering Drawing
+Lines - Types and applications in drawing
+Drawings are made up of different types of lines. Just a Technical drawings are drawn with different types of lines.
+language with alphabet and grammar. By proper choice and application of lines, product features
+can be correctly defined in a drawing. Different types of
+Lines of different thicknesses and features are used for
+lines recommended for specific applications are given in
+specific use. (Fig 1 and 2)
+Table 1.
+Table 1
+Types of lines and their application
+Lines Description General applications
+See figure and other relevant figure
+Continuous thick A1 Visible outlines
+A2 Visible edges
+Continuous thin B1 Imaginary lines of intersection
+(straight) B2 Dimension lines
+B3 projection lines or extension line
+B4 Leader lines
+B5 Hatching
+B6 Outlines of revolved sections in place
+B7 Short centre lines
+B8 Thread line
+B9 Diagonal line
+Continuous thin C1 Limits of partial or interrupted views &
+free hand sections, if the limit is not a chain thin
+Continuous thin D1 Line (See figures)
+(Straight) with zig-zags
+Dashed thick E1 Hidden outlines
+E2 Hidden edges
+Dashed thin F1 Hidden outlines
+F2 Hidden edges
+Chain thin G1 Centre lines
+G2 Lines of symmetry
+G3 Trajectories
+Chain thin, thick at ends H1 Cutting planes
+& changes of direction
+Chain thick J1 Indication of lines or surfaces to
+which a special requirement applies
+Chain thin double- K1 Outlines of adjacent parts
+dashed K2 Alternative and extreme positions of
+movable parts
+K3 Centroidal lines
+K4 Initial outlines prior to forming
+K5 Parts situated in front of the cutting plane
+1 This type of line is suited for production of drawings by machines.
+2 Although two alternatives are available, it is recommended that on any one drawing, only one type of line be used.
+In the above range, for craftsmen, 0.5 is preferred. Table 2 The numbers on the right side of the lines refer to the line
+shows the 0.5 line range and other lines under this range. thickness in mm.
+16
+
+--- Page 25 ---
+
+Table 2
+Hatching lines (B5): Hatching lines are the lines inclined
+parallel lines. The minimum space between these lines
+should be more than twice the thickness of the heaviest line
+in the drawing. It is recommended that these spacings
+should never be less than 0.7 mm. (Fig 4)
+For showing the limits of partial or interrupted views and
+sections continuous thin freehand lines (C1) or continuous
+thin straight lines with zig-zag (D1) are used. (Fig 6)
+All the views of a component drawn to one particular scale
+should have the same range of line thickness.
+Types of lines: Ten types of lines are used in general
+engineering drawing as per IS:10714-1983. Which first four
+types of lines are continuous lines of both thick and thin.
+(Type A to D)
+A continuous thick line (A-type) is used for drawing visible
+outlines (A1) and visible edges (A2). (Fig 3) These lines are
+also called object lines
+Lines of type E to K in Table 1 are of the non-continuous
+type. Some of these are thin and some are thick. For
+hidden lines both thick and thin dashes (E & F type) are
+available, it is recommended that on anyone drawing, only
+one type of (Thick or thin) line be used. (Fig 7)
+Continuous thin lines (B type): Continues thin lines are
+used for many applications as stated in Table 1. A few
+applications of B types of lines are shown in Fig 4.
+Chain lines (Thin): Chain lines are used for drawing centre
+lines of circles, cylinders etc. Same lines are also used to
+show the axis of symmetry in symmetrical objects. The
+line of symmetry is identified at its ends by two thin short
+parallel lines drawn at right angles to it. (Fig 8)
+A leader line - B4 (Fig 4): A leader line is a line referring
+to a feature (dimension, object, outline etc). A leader line
+should terminate.
+• with a dot
+• with an arrow head
+• without a dot or arrow head (Fig 5)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.06 17
+
+--- Page 26 ---
+
+Another method of representing symmetrical shape is to
+extend the object lines beyond the axis of the symmetry.
+(Fig 9) In this case, the short parallel lines described above
+are omitted. The same lines are also used to show the
+repetitions of features of a component. (Fig 10)
+For drawing a sectional view, the plane of cutting is to be
+shown in another view. The cutting plane (H1) in Table 1 is
+drawn with a thin chain, thick at the ends and also at the
+K3 - Centroidal lines (Fig 14)
+places of direction change. (Figs 11 & 12)
+K4 - Initial outlines brefore forming (Fig 15)
+If thick chain lines (J1) in table 1 are drawn on a surface, it
+indicates some special treatment/application on that
+surface. (Fig 13)
+Chain thin double dashed (K) lines are applied for the
+following:
+K1 - Outlines of adjacent parts (Fig 13) K5 - Parts situated in front of the cutting plane
+(Fig 16)
+K2 - Alternative and extreme positions of moving
+parts. (Fig 13)
+18 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.06
+
+--- Page 27 ---
+
+Lines - Drawing lines of a given length (straight,
+curved), drawing parallel lines, perpendicular lines
+Tangent line (Fig 24)
+and methods of division of line segment
+There are a lot of ways to define straight and curved lines;
+the most elaborate way to define them is the following:
+• A straight line is a succession of points that are aligned
+in the same direction. Or in other words, to go from one
+point to another, we never change direction. (Fig 17)
+4 Easy ways to draw curved line (Fig 25)
+• On the contrary, the points of a curved line do change
+direction from one point to the next. (Fig 18)
+Drawing curved dashed line (Fig 26)
+• If there aren’t any obstacles, there are plenty of ways
+to do this…for example: (Fig 19 to 23)
+Exercise 1
+How to draw six horizontal parallel lines of 50 mm
+long with 10 mm intervals (Fig 1).
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.06 19
+
+--- Page 28 ---
+
+Use a sharpened conical point pencil.
+Keep the pencil slightly inclined towards the
+direction of the movement.
+While drawing rotates the pencil to keep the
+constant thickness.
+Maintain uniform pressure on the lead of the
+pencil.
+Exercise 2
+How to draw six vertical parallel lines of 50 mm
+length with 10 mm intervals (Fig 2).
+Draw the vertical lines from bottom to top. 2 To draw vertical thick and thin lines. (Fig 2)
+Exercise 3
+How to draw 45° inclined lines (Fig 3).
+Draw lines from bottom to top.
+Sketch by free hand
+Sketch the following practice No.1 to 3 in A3/A4 sheets.
+Practice
+1 To draw horizontal thick and thin lines. (Fig 1)
+20 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.06
+
+--- Page 29 ---
+
+3 Sketch the inclined lines as shown in figure with Horizontal line (Fig 6): Horizontal lines are those which
+thick and thin lines. (Fig 3) are parallel to a horizontal plane. An example of the
+horizontal plane is the surface of still water. (Fig 6)
+Vertical line (Fig 7a): Lines that are perpendicular to
+horizontal lines are called vertical lines. It can be treated as
+a line along the plumb line of the plumb bob or parallel to
+a plumb line. (Fig 7b)
+Inclined line or Oblique line: A straight line that is neither
+horizontal nor vertical is called an inclined line. (Fig 8)
+Types of lines Curved line: It is the path of a point that always changes
+A point represents a location in space, having no width or its direction. Examples of curved lines are shown in (Fig 9).
+height. It is represented by drawing the intersection of lines
+or a dot. (Fig 4)
+Parallel lines: They are the lines with the same distance
+between them. They may be straight lines or curved lines
+Parallel lines do not meet when extended. (Fig 10)
+A line is the path of a point when it moves. It has no
+thickness and is of two types:
+i Straight line and ii Curved line
+Straight-line: It is the path of a point when it is moving in
+a particular direction. It has only length and no width. (Fig
+5) Also, a straight line is the shortest distance between two
+Perpendicular lines: When two lines meet at 90°, the two
+points. Straight lines, depending on their orientation are
+lines are said to be perpendicular to each other. One of the
+classified as Horizontal, Vertical Inclined or Oblique lines.
+lines is called a reference line. (Fig 11)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.06 21
+
+--- Page 30 ---
+
+Group 9 - Engineering Trades Exercise 1.2.07
+Engineering Drawing
+Free hand drawing of - Geometrical figures and block with dimension
+Freehand sketching: Apart from making drawing using Cylinder (Fig 5)
+instruments, often craftsmen will be required to make
+drawings with their free hand.
+Freehand sketching is the easiest method to express the
+shape of a piece part or a component by an engineer or
+craftsman.
+Freehand sketches are not usually made to scale. However,
+they should be as nearly to the proportions as possible.
+Cube (Fig 1)
+Materials for free hand sketching: A4 size sheet (preferably
+a pad instead of loose papers) pencils of soft grade. Example
+H, HB, and a good quality eraser are the only materials
+required. For drawing different darkness, the pencil points
+should be sharpened to a conical shape. Fig 6 shows some
+free hand sketches of different types of views.
+Square block (Fig 2)
+Rectangular block (Fig 3)
+Procedure
+Freehand drawing of solid figures, cubes, cuboids, cone,
+prism, pyramid, frustum of a cone with dimensions
+Cube (Fig 1)
+Cube block (Fig 4)
+22
+
+--- Page 31 ---
+
+• Draw squares of a, b, c and d. Rectangular prism (Fig 4)
+• Draw 30° from points b, c and d for the length of 25mm.
+• Mark point g from b, f from c and e from d as shown in
+the figure.
+• Joint all points.
+Cuboid (Fig 2)
+Draw the isometric drawing of a cuboid of base 60 mm x
+40 mm and the height of 20 mm. (Fig 2)
+Square Prism (Fig 5)
+Draw the three isometric axes through the point 'A'.
+Triangular Prism (Fig 6)
+• Mark AB = 60mm, AE = 40mm and AD= 20mm
+representing the three sides of cuboid.
+• Draw two vertical lines EF and BC parallel to AD from
+points E and B respectively.
+• Similarly, draw two more lines parallel to AB and AE to
+mark G's interesting point from F and C.
+• Draw lines parallel to DC and FG Draw lines parallel to
+DF and GC.
+• Join all the points.
+Cylinder (Fig 3)
+Pentagonal prism (Fig 7)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.07 23
+
+--- Page 32 ---
+
+Hexagonal prism (Fig 8)
+Cone: When a right-angled triangle revolves about one of
+its sides forming the right angle, a cone is generated. Cone
+forming has a circular face and a slant curved surface.
+(Fig 9)
+Pyramids: Pyramids are polyhedron solids having a base
+surface whose shape may be triangular, square or polygon
+and as many slant triangular faces as there are sides in the Fig 12 shows frustums and truncated pyramids.
+base. All the slant triangular faces join at a common point
+All items we use are solids. Their shapes may confirm
+called APEX.
+individual geometrical solids like prisms, cones or other
+Similar to prisms, pyramids also are known by the shape combinations.
+of their base viz triangular, square, rectangular, pentagonal,
+hexagonal etc. The imaginary line joining the centre of the
+base to the apex is called the AXIS.
+Fig 10 shows some pyramids and their views.
+When a semi-circle revolves about its diameter a sphere is
+generated. A sphere has no flat surface. (Fig 11D)
+Frustums: Pyramid/cone is cut parallel to the base and the
+top portion is removed. The remaining bottom portion is
+called the frustum of a pyramid/cone.
+If the cutting plane is at an angle to the axis/base, the
+pyramids or cones are called "Truncated pyramids or
+cones".
+24 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.07
+
+--- Page 33 ---
+
+Group 9 - Engineering Trades Exercise 1.2.08
+Engineering Drawing
+Free hand drawing of - Transferring measurement from the given object to
+the free hand sketches
+25
+
+--- Page 34 ---
+
+26 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.08
+
+--- Page 35 ---
+
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.08 27
+
+--- Page 36 ---
+
+28 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.08
+
+--- Page 37 ---
+
+Group 9 - Engineering Trades Exercise 1.2.09
+Engineering Drawing
+Free hand drawing of hand tools and measuring tools
+Hand Tools Hacksaw (Fig 6)
+Files (Fig 1)
+a Curved cut file b Rasp cut file
+c Single cut file d Double cut file
+Ball pein hammer (Fig 7)
+Scriber (Fig 2)
+Chisel (Fig 8)
+Bench vice (Fig 9)
+Divider (Fig 3)
+Outside caliper (Fig 4)
+Cutting plier (Fig 10)
+Inside caliper (Fig 5)
+Open end spanner (Fig 11)
+29
+
+--- Page 38 ---
+
+Measuring Tools Riveting hammer (Fig 16)
+Steel rule (Fig 12)
+Try square (Fig 13)
+Aviation shear (Fig 17)
+Rawhide mallet (Fig 14)
+Creasing hammer (Fig 18)
+Hollowing hammer (Fig 19)
+Setting hammer (Fig 15)
+Bullet hammer (Fig 20)
+30 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.09
+
+--- Page 39 ---
+
+Planishing hammer (Fig 21) Round bottom stake (Fig 27)
+Bench shear (Fig 22)
+Half moon stake (Fig 28)
+Straight snip (Fig 23)
+Bend snip (Fig 24)
+Beak or bickiron (Fig 29)
+Hawk-billed shear (Fig 25)
+Double-cutting shear (Fig 26)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.09 31
+
+--- Page 40 ---
+
+Creasing iron (Fig 30) Tinman’s anvil (Fig 33)
+Tinman’s horse (Fig 31)
+Penning hammer (Fig 34)
+Universal stake holder (Fig 35)
+Heads (Fig 32)
+Square edge (Fig 36)
+32 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.09
+
+--- Page 41 ---
+
+Hand seamer (Fig 37) Blind rivetting equipment (Fig 41)
+Hollow punch (Fig 38)
+Solid punch (Fig 42)
+Folding bars (Fig 39)
+Iron hand punch (Fig 43)
+Revolving bench plate (Fig 40)
+Hand riveter (Fig 44)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.09 33
+
+--- Page 42 ---
+
+Size of groove & seam (Fig 45) Tinner’s hand punch (Fig 46)
+34 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.2.09
+
+--- Page 43 ---
+
+Group 9 - Engineering Trades Exercise 1.3.10
+Engineering Drawing
+Drawing of angle & triangle
+Angles: Angle is the inclination between two straight lines
+meeting at a point or meeting when extended. AB and BC
+are two straight lines meeting at B. The inclination between
+them is called an angle. The angle is expressed in degrees
+or radians.
+Concept of a degree: When the circumference of a circle
+Reflex angle: It is the angle that is more than 180°, but
+is divided into 360 equal parts and radial lines are drawn
+less than 360°. (Fig 6)
+through these points, the inclination between the two
+adjacent radial lines is defined as one degree. Thus a circle
+is said to contain 360°. (Fig 1)
+Adjacent angles: These are the angles lying on either
+side of a line. (Fig 7)
+Acute angle: An angle that is less than 90° is called an
+acute angle. (Fig 2)
+Complementary angles: When the sum of the two
+angles is equal to 90°, angle POQ + angle QOR = 90° angle
+POQ and angle QOR are complementary angles to each
+other. (Fig 8)
+Right angle: The angle between a reference line and a
+perpendicular line is called a right angle. (Fig 3)
+Obtuse angle: This refers to an angle between 90° and Supplementary angle: When the sum of the two adjacent
+180°. (Fig 4) angles is equal to 180°, for example, angle SOT + angle
+TOY = 180°, angle SOT and angle TOY are supplementary
+angles to each other. (Fig 9)
+Straight angle: This refers to an angle of 180°. This is also
+called the angle of a straight line. (Fig 5)
+35
+
+--- Page 44 ---
+
+Triangle - different types
+Triangle is a closed plane figure having three sides and
+three angles. The sum of the three angles always equals
+to 180°.
+To define a triangle, we need to have a minimum of three
+measurements as follows:
+• 3 sides or
+• 2 sides and one angle or
+• 2 angles and one side
+Types of triangles
+1 Equilateral triangle is a triangle having all the three
+sides equal. Also all the three angles are equal (60°).
+(Fig 1)
+2 Isosceles triangle has two of its sides equal. The angles
+opposite the two equal sides are also equal. (Fig 2)
+Procedure to draw the triangle
+1 Equilateral triangle (Fig 1) AB = BC = CA = 35 mm.
+• Draw a line and mark AB 35 mm side of the triangle.
+• Draw radius from centre A and B, arcs cutting mark at
+C (Fig 1).
+3 Scalene triangle has all three sides unequal in length.
+• Join CA and CB.
+All three angles are also unequal. (Fig 3)
+• ABC is a required triangle.
+4 A right-angled triangle is one in which one of the
+angles is equal to 90° (Right angle). The side opposite
+the right angle is called the hypotenuse. (Fig 4)
+5 An Acute angled triangle is one in which all the three
+angles are less than 90°. (Fig 5) 2 Isosceles triangle : AB = AC = 60 mm & BAC  40.
+6 Obtuse angled triangle has one of the angles more • Draw the side AB equal to 60 mm. `A' as the centre,
+than 90°. (Fig 6) draw an arc of radius AB.
+The sum of the three angles in any triangle is • Draw a line AC at 40° to AB.
+equal to 180°.
+• Join BC to form the triangle ABC. (Fig 2)
+The sum of any two sides is more than the third
+side.
+36 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.10
+
+--- Page 45 ---
+
+4 Draw a triangle when one side and 2 angles being given
+in Fig 4.
+Exercise
+1 Scalene triangle: AB = 30 mm, AC = 55 mm & BC=
+35 mm. (Fig 1)
+5 Draw a right angled triangle when the base and
+hypotenuse being given in Fig 5.
+2 Scalene triangle: AB = 70 mm. (Fig 2)
+ABC  40 & BAC  110
+6 Draw a triangle with the altitude and two sides being
+given in Fig 6.
+3 Right angled triangle: AB = 60 mm, BC = 45 mm.
+(Fig 3)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.10 37
+
+--- Page 46 ---
+
+Group 9 - Engineering Trades Exercise 1.3.11
+Engineering Drawing
+Drawing of circle
+Circle: Circle is a plane figure bounded by a curve, formed
+by the locus of a point which moves so that it is always at
+a fixed distance from a stationary point the "Centre".
+Radius: The distance from the centre to any point on the
+circle is called the "Radius".
+Diameter: The length of a straight line between two points
+on the curve, passing through the centre is called the
+"Diameter". (D: Dia or d) It is twice the radius.
+Circumference: It is the linear length of the entire curve,
+equal to D.
+Arc: A part of the circle between any two points on the
+circumference or periphery is called an 'Arc'.
+Chord: A straight line joining the ends of an arc is called
+the chord. (Longest chord of the circle is the diameter)
+Segment: A part of the circle or area bound by the arc and
+chord is the segment of the circle.
+Sector: It is the part of a circle bounded by two radii (plural
+of radius) meeting at an angle and an arc.
+Quadrant: Part of a circle with radii making 90° with each
+other is a quadrant (one-fourth of the circle). Circle and Arcs
+Half of the circle is called a semi-circle. Exercise
+Tangent: The tangent of a circle is a straight line just 1 Draw a tangent to a given circle of φφφφφ 50 mm at any
+touching the circle at a point. It does not cut or pass through point `P' on it. (Fig 1)
+the circle when extended.
+Fig 1 shows all the above elements.
+2 Draw a loop of 3 circles pattern. (Fig 2)
+Draw any line MN and mark points A,B and C. So that
+AB = 20 mm and BC = 25 mm.
+Concentric circles: When two or more circles (drawn)
+have a common centre, they are called concentric
+circles. Ball-bearing is the best example of concentric
+circles. (Fig 2)
+Eccentric circles: Circles within a circle but with
+different centres are called eccentric circles. (Fig 3)
+38
+
+--- Page 47 ---
+
+3 3 Draw three circles tangential to each other if
+centres A, B & C are given. (Fig 3)
+5 Draw internal tangents to circles of the same
+diameter 40 each and a centre distance of 60 mm.
+(Fig 5)
+4 Draw external tangents to circles of dia 40 and 30
+and centre distance 60 mm. (Fig 4)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.11 39
+
+--- Page 48 ---
+
+Group 9 - Engineering Trades Exercise 1.3.12
+Engineering Drawing
+Drawing of square, rectangle and parallelogram
+A quadrilateral is a plane figure bounded by four sides and Procedure to draw the square, rectangle and
+four angles. The sum of the four angles in a quadrilateral is parallelogram
+(interior angles) equal to 360°. The side joining opposite
+Square
+corners is called diagonal. To construct a quadrilateral out
+of four sides, four angles and two diagonals a minimum of 1 1st method (Fig 1): A square of side 50 mm by erecting
+five dimensions are required of which two must besides. perpendicular.
+Quadrilaterals are also referred as Trapezium. (Fig 1)
+Types of quadrilaterals (Fig 1) 2 2nd method (Fig 2): A square of side 60 mm using
+45° setsquare and compass.
+• Square
+• Rectangle
+• Rhomboid / Parallelogram
+Square: In a square all the four sides are equal and its four
+angles are at right angles. The two diagonals are equal and
+perpendicular to each other.
+Rectangle (Fig 2): In a rectangle, opposite sides are equal
+and parallel and all four angles are right angles.
+Fig 2 shows a rectangle ABCD, Sides AB = DC and BC =
+AD. Diagonals AC and BD are equal. Diagonals are not
+bisected at right angles.
+3 3rd method (Fig 3): A square of side 60 mm long by
+erecting perpendicular and also using 45°
+setsquare.
+Rhomboid/Parallelogram (Fig 3): In a parallelogram,
+opposite sides are equal and parallel. Opposite angles are
+also equal. Diagonals are not equal but bisect each other.
+40
+
+--- Page 49 ---
+
+4 Square having diagonal 60 mm (Fig 4) 7 Parallelogram (Fig 7)
+Sides = 75 mm and 40 mm
+Angle between them: 50°
+5 Rectangle (Fig 5)
+8 Parallelogram (Fig 8)
+Side AB = 75 mm, side AD = 45 mm using setsquare and
+compass. Parallelogram - Side AB = 60 mm
+Diagonal AC = 90 mm ∠ABC = 120°
+6 Rectangle - Diagonal - 60 mm and one side 20 mm
+1st method (Fig 6a)
+9 Parallelogram (Fig 9)
+2nd method (Fig 6b)
+Sides AB = 55 mm, BC = 40 mm and vertical height = 30
+ADBC is the required rectangle of side 20 mm and
+mm.
+diagonal 60 mm.
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.12 41
+
+--- Page 50 ---
+
+Group 9 - Engineering Trades Exercise 1.3.13
+Engineering Drawing
+Drawing of ellipse & parabola
+Ellipse
+• Similarly obtain M . M & M as centres and B M
+3 2 4 1 2
+1 Construct an ellipse by concentric circle method. as radius, draw arcs P P & P P .
+1 2 3 4
+Major axis 80 mm. Minor axis 40 mm. (Fig 1)
+• M M as centres and M P as radius, draw arcs P P
+1 3 1 1 1 3
+• Draw the major axis AB (80 mm) and minor axis CD & P P and complete the ellipse.
+2 4
+(40 mm), bisecting at right angle at 0.
+• '0' as centre OA and OC as radius, draw two
+concentric circles.
+• Draw a number of radial lines through '0' (say 12)
+cutting the two circles.
+• Mark the points on the outer circle as a,b,c.
+• Similarly mark the corresponding intersecting points
+on inner circle as a',b',c'.
+• From points such as a,b,c... draw lines parallel to
+minor axis.
+• From points such as a', b',c'.... draw lines parallel to
+the major axis to intersect with the corresponding
+vertical lines at points P , P P .... etc.
+1 2, 3 3 Construct an ellipse by four centre method - Major axis
+• Join all these points with a smooth curve by free
+= 80 mm and Minor axis = 40 mm - Type B. (Fig 3)
+hand or using "french curve" and form the ellipse.
+• To find the 'Foci' - with half the major axis (a) as
+radius and with 'C' on the minor axis as centre, draw
+an arc cutting the major axis, at two points, mark
+them as F F the focus points of the ellipse.
+1 2
+• Draw the rectangle EFGH (80 x 40) and draw AB &
+CD represent major and minor axis.
+2 Construct an ellipse by four centre method - Major axis
+• Join EC
+= 80 mm and Minor axis = 40 mm - Type A. (Fig 2)
+• Bisect AE and mark P the mid-point.
+• Draw the major axis A A and minor axis B B .
+1 2 1 2
+• Join DP meeting EC at K.
+• Set off B M and B M equals to A B .
+1 2 2 4 1 1
+• Draw perpendicular bisectors of KD and extend DC
+• Join A B and set off B B equal to a-b (a = OA , b
+1 1 1 3 1 and locate point `S'.
+= OB )
+1
+• 'S' as centre SD as radius draw the arc KD.
+• Draw a bisector on A B which intersects A A at
+1 3 1 2
+M . • Similarly get the point 'R'.
+1
+42
+
+--- Page 51 ---
+
+• Join AK and draw perpendicular bisector on it, and 5 Abscissa: The distance along the axis XX' from vertex
+meet AB at f . (V) and a point through which the double ordinate
+1
+passes is called the "Abscissa" VQ is the abscissa
+• 'f ' as centre, Af as radius, draw an arc KK'.
+1 1 corresponding to the ordinate PQ (Fig 5).
+• Mark centre 'f ' so that Bf = Af .
+2 2 1
+• Now R, S, F & F are the four centres of the ellipse.
+1 2
+Similar to the procedure followed for drawing curves KD and
+KK and complete the ellipse.
+1
+Follow the procedures given below and construct parabolic
+curves in the work book.
+4 Parabola: It is one of the conic sections.
+When the cutting plane is parallel to the generators (slant
+line) of the cone, (and inclined to the axis) the section
+obtained is called "Parabola". (Fig 4)
+Tangent and normal for the point T
+• Draw TS perpendicular to directrix
+• Draw TF
+• Bisect angle STF, it will be tangential to parabola at P.
+• Draw TN perpendicular to tangent will be normal at P.
+A parabola can be constructed by any one of the following
+methods:
+Properties: Parabola is defined as the locus of a point • ordinate method
+which moves so that the ratio of its distance from a fixed
+• rectangle method
+point F (called the focus) and a directrix bears a constant
+and equal to 1 (Unity). • tangent method
+In other words if the perpendicular distance of any point on • parallelogram method
+the curve from a fixed line called directrix is equal to its
+• offset method
+distance from focus, the curve is called "Parabola". (Fig 5)
+Practical application: Search lights, reflecting surfaces
+Elements of Parabola
+for light and sound, bridge arches, wall brackets and largely
+Axis: It is a line (XX') perpendicular to the directrix and used in graphic methods for determining the stress upon
+passing through the focus. beams and girders etc.
+Vertex (V): It is the mid point of the perpendicular line 6 Parabola
+drawn from focus to directrix.
+Construct a Parabola from a given focus is at 50 mm
+Ordinate: Perpendicular distance of any point P on the from the directrix. (Fig 6) - Ordinate method.
+curve to the axis line PQ.
+• Draw a vertical line D-D1 the directrix.
+Double ordinate: When the ordinate is extended to meet
+• Draw horizontal line XX1, the axis through any point
+the curve on the other side. Crossing the axis, it is twice
+X on the directrix.
+the ordinate line P-Q-P1 is the double ordinate.
+• Mark the focus 'F' on XX1 = 50 mm from X (on the
+Latus rectum: The double ordinate which passes through
+directrix).
+the 'Focus' is called latus rectum. (LFL')
+• Mark the mid point of XF, as V.
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.13 43
+
+--- Page 52 ---
+
+• Mark a number of points from V towards right side • Mark the intersecting points P , P , P , P on either
+1 2 3 4
+on the axis as 1,2,3,4..... side of axis.
+• Draw vertical lines through these points as shown, • Form the parabola by joining the points BEC and
+forming double ordinates. intersecting with a smooth curve, passing through
+P , P .....
+• Point 'F' as centre, X-1 as radius, draw arcs on the 1 2
+co-ordinates (vertical lines) passing through 1, mark
+points P & P '.
+1 1
+• X-2 as radius, F as centre, draw arcs on the 2nd
+ordinate, mark P & P '.
+2 2
+• Similarly get point P , P .... P ', P ' etc. on the axis
+3 4 3 4
+as above.
+• Join all the points with a smooth curve, by free hand
+and form the parabola curve.
+8 Parabolic curve of sides 80 and 60 making 60°/120°
+Parallelogram method. (Fig 8)
+• Procedure is similar to the exercise (11) rectangle
+method of drawing a Parabolic curve.
+7 Construct a Parabola given the base and axis of a
+rectangle; base 80 mm, axis 25 mm - Rectangle
+method. (Fig 7)
+• Draw a rectangle ABCD of sides 80 mm & 25 mm.
+• Mark centre points of AD and BC, as E and F, join
+EF.
+• Divide AB & CD and into any number of equal parts
+9 Given the double ordinate, abscissa and distance
+say 5. Also divide AE and ED into the same number
+between vertices (Fig 9)
+of equal parts and number them as shown.
+• Draw a hyperbola with double ordinate 70 mm and
+• From point E on AD, draw lines to the divisions on
+abscissa 30 mm (rectangle method) and the
+AB & CD.
+transverse axis 70 mm.
+• From the points on AED, draw parallel lines to EF.
+44 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.13
+
+--- Page 53 ---
+
+• Draw the rectangle ABCD 70 x 30 mm.
+• Mark the mid points V, X on AB and CD.
+• Join VX and extend it outside to '0' 35 mm (70/2)
+from V.
+• Divide AD and BC into 4 equal parts. Mark them as
+1,2,3,11,21,31.
+• Join these points to V by straight lines.
+• Divide DX;XC into 4 equal parts, each mark them as
+a,b,c,c1,b1,a1.
+• Join '0' to these points by straight lines.
+• Mark the intersecting points as P ,P etc as shown.
+1 2
+• Join V-D-C with a smooth curve through P ,P ,P
+1 2 3
+etc.
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.13 45
+
+--- Page 54 ---
+
+Group 9 - Engineering Trades Exercise 1.3.14
+Engineering Drawing
+Drawing of lettering and numbering - Single stroke
+Styles of lettering: Many styles of lettering are in use Lower case letters and numerals
+today. However, a few styles which are commonly used are
+shown in Fig 1. Width Letters/Numerals Width
+(W)
+1 i 1d
+3 j,l 3d
+4 f,t,l 4d
+5 c,r 5d
+6 a,b,d,e,g,h,k,n,o,p,q,s,u,v;3;5 6d
+7 a,0 (zero), 2,4,6,7,0,8,9 7d
+9 m 9d
+10 w 10d
+The width of different letters in terms of stroke (line) is as
+follows:
+Standard heights/Width: The standard heights Uppercase Lettering BIS SP: 46-2003
+recommended by BIS SP: 46-2003 are in the progressive
+ratio of “square root 2”. They are namely 2.5 - 3.5 - 5 - 7 -
+Width (W) Capital letters
+10 - 14 and 20 mm. The height of lower case letter (without
+tail or stem) are 2.5, 3.5, 5, 7, 10 and 14 mm. 1 I
+There are two standard ratios for the line thickness “d”. 4 J
+They are A & B. In A = line thickness (d) is h/14 and in
+5 C,E,F,L
+B=line thickness (d) is h/10.
+6 B,D,G,H,K,N,O,P,R,S,T,U & Z
+Lowercase means small letters, as opposed to capital
+letters. The word yes, is for example, is in lowercase, 7 A,M,Q,V,X,Y
+while the word YES is in upper case. For many 9 W
+programmes, this distinction is very important. Programmes
+that distinguish between uppercase and lowercase are
+Lower case letters and numerals
+said to be case sensitive
+The width of different letters in terms of “d” is as follows: Width (W) Letters/Numerals
+Lettering A 1 i
+2 l
+Width Capital letters Width
+(W) 3 j,l
+1 I 1d 4 c,f,r,t
+5 J,L 5d 5 a,b,d,e,g,h,k,n,o,,q,s,u,v,x,y,x
+6 C,E,F 6d 0,2,3,5 to 9
+7 B,D,G,H,K,N,O,P,R,S,T,U & Z 7d 0,2,3,5 to 9
+8 A,Q,V,X,Y 8d 6 a,4
+9 M 9d
+12 W 12d
+46
+
+--- Page 55 ---
+
+Spacing of letters: Recommended spacing between
+For curved letters use a smooth freehand curve.
+characters, a minimum spacing of baselines and minimum
+spacing between words as per BIS SP: 46-2003 are given Print straight line letters using either scale or
+below in Fig 2. set-squares.
+To maintain the uniform thickness of the line,
+use a conical point soft grade pencil and avoid
+too much sharpness.
+Guidelines of both top and bottom should always
+be drawn with a sharp pencil.
+Numerals 2.1 (Fig 2)
+Lettering
+Procedure
+1 Print 10 mm single stroke capital letters and numerals
+in vertical style using either scale or set-square and by
+freehand. (Fig 1)
+• Follow the same procedure of letters.
+• `h' is height of numerals and `d' is the stroke thickness.
+• Width of numerals in terms of `d' is as follows shown in
+square grid (Fig 3).
+2 Print 10 mm single stroke capital letters and numerals
+• Draw horizontal parallel lines (thin lines) of 10 mm
+in inclined style (Fig 4).
+distance.
+10 mm distances denote the height of the letter.
+• Mark the width of the letters recommended by BIS
+(IS:9609-1983)
+The width of different letters in terms of `d' is as
+follows: `d' indicates stroke thickness i.e d: h/
+10.
+Width Capital letters
+(W)
+1 I
+4 J
+5 C,E,F,L
+6 B,D,G,H,K,N,O,P,R,S,T,U & Z
+7 A,M,Q,V,X,Y
+9 W
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.14 47
+
+--- Page 56 ---
+
+Practice the following lettering exercises in A3/A4 paper as per the given ratio
+1 Single stroke inclined letters of ratio 7:6, 7:5, 7:4, 7:3, 7:1 (Fig 5)
+48 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.14
+
+--- Page 57 ---
+
+2 Single stroke vertical letters of ratio 7:6, 7:5, 7.4, 7:3, 7:1 (Fig 6)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.14 49
+
+--- Page 58 ---
+
+Group 9 - Engineering Trades Exercise 1.3.15
+Engineering Drawing
+Drawing of development of surfaces - Introduction
+Surface develpoment of prism, pyramid, cylinder • Solids bounded by double curved surfaces. It is formed
+projection & development, cone projection & by revolving a curve about a straightline. Eg. sphere,
+development paraboloid etc. (Fig 3)
+Development of surface - Introduction
+The surfaces may be classified as follows:
+• Solids bounded by plane surfaces. Eg. cube, prism,
+pyramids etc. (Fig 1)
+Methods of development
+Parallel line method (Fig 4i): This is method used for
+such of those object having parallel elements i.e developing
+prisms and single curved surfaces like cylinders, in which
+all the edges/generators of lateral surfaces are parallel to
+• Solids bounded by single curved surfaces. It can be
+each other.
+unrolled to a plane. Eg. cylinder, cone etc. (Fig 2)
+Radial line development (Fig 4ii): It is used for developing
+the surfaces of pyramids and also for single curved surfaces
+like cones, having its apex as centre and the slant edges
+or generators are taken as radius for drawing its development.
+Radial line development has the fold lines, coming from a
+point which is known as apex.
+50
+
+--- Page 59 ---
+
+Intersection: We are more convinced with the lines of Line method (Fig 8): Mark the points 1",2",3" on the
+intersection formed when surfaces of two solid meet. Fig 5 circumference of the circle in the side view. (preferably
+shows the few examples of lines of intersection. symmetrical)
+Project from side view and locate points P ; P /P in plan.
+2 1 3
+Now these lines P - 3, P - 1 and P - 2 are the true lengths
+3 1 2
+of the generators or simply lines drawn from points 3, 1 and
+2. These lines will also form the true lengths in the
+elevation.
+Intersection lines or just intersections are of great importance Draw projectors of indefinite lengths from points 1",2" & 3"
+to both for making drawings for fabrication work. in the side view towards the elevation.
+When drawing the views of intersecting solids, lines of To fix the position of the above projectors, draw projectors
+intersection will have to be drawn in order to complete the vertically from points such as P /P and P to intersect with
+views. For example Fig 6 shows a solid when two cylinders the corresponding lines in t 3 he 1 elevat 2 ion. Mark the
+meet at right angles. Without the line of intersection cd, the intersecting points f ',f ',f ' and draw the required curve.
+view is incomplete. To draw the intersection lines in its 1 2 3
+Note: The above step was to simply transfer the true length
+correct form, principle of projections have to be followed
+of generators P - 1, P - 2 from plan to elevation.
+and this will involve extensive geometrical construction. 1 2
+Since we have drawn the projection of generators to get the
+points f ',f ',f '. This method is called generator method.
+1 2 3
+This is also called as line method.
+Cutting plane method (Fig 9): In cutting plane method,
+we assume that the cylinders are cut by a series of parallel
+cutting planes passing through such points as 3-3, 2-2 etc.
+In figure 9, the cylinders are shown after they are cut by a
+plane passing through 3 - 3. The line f3 - 3 is the same as
+the generating line f3' - 3" in the front view of figure and
+hence the rest of the procedure is same as that of line
+In fabrication work, especially in sheet metal fabrication
+method.
+accurate intersection lines are a must for drawing development.
+For example, the development of the part 2 of Fig 6 is shown
+in Fig 7. The accuracy of the fabricated cylinder is much
+dependent on the accuracy of the curve cd. To plot the line
+cd, intersection line cd (Fig 6) has to be drawn accurately.
+Depending on the nature of the meeting surfaces, intersection
+lines may be straight lines or curves. When both the Note: Though both line method and cutting plane method
+mating surfaces are flat (plain) intersection will be straight are appearing to be same, they are conceptually different.
+lines (Fig 5c). If one or both the mating surfaces are curved, While any one method can be followed in many cases, but
+the intersection lines are curved. (Fig 5a,b & d) cutting plane method is more useful in solving cases in
+which none of the projections shows a line view of the
+To plot the points required for drawing the intersection curve
+surface of a solid.
+we can use either the line method or cutting plane method.
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.15 51
+
+--- Page 60 ---
+
+Group 9 - Engineering Trades Exercise 1.3.16
+Engineering Drawing
+Drawing of development of surfaces - Procedure
+Practice of Surface development of prism, pyramid, • Draw another rectangle CD A B on CD of size to 40
+1 1
+cylinder projection & development, cone projection x 20 mm, the end faces of the prism. Figure
+& development obtained is the development of the total prism.
+Procedure
+1 Draw the development of the surfaces of a cube of side
+30 mm. (Fig 1)
+• Draw the elevation and plan of the cube.
+• From the front view stretch out (Project) the line AA
+& A'A' from points b' b' horizontally.
+1
+• Set off AB, BC, CD & DA equal to 30 mm each. (side
+3 Draw the development of the lateral surface of a open
+of square)
+hexagonal prism of side 20 mm and height 60 mm.
+• From C & D draw perpendiculars and mark off/CB' & (Fig 3)
+DA' equals to 30 mm.
+• Similarly erect perpendiculars from points C' & D'
+such that C'B' & D'A' equals to 30 mm.
+1 1
+• Darken the lines as shown in Fig 1 to get the required
+development of the cube.
+2 Draw the development of the surface/a rectangular
+prism of size 40 mm x 20 mm and height 60 mm by
+parallel line method. (Fig 2)
+• Draw a rectangle of length equals to the perimeter of
+the prism. Length = 2 (l + b) = 120 mm and height
+equals to the height of prism (60 mm).
+• Mark AB; BC; CD and DA equals to 40, 20, 40 & 20
+mm respectively.
+• Draw the elevation and plan of the hexagonal prism.
+• Draw perpendiculars from the points A,B,C,D and
+mark as A', B', C', D'. • Project A'A' & AA from the elevation C'C' shall be
+1
+• Draw a rectangle A'B'C'D' on A'B' of size 40 x 20 mm. equal to 6 x 20 = 120 mm.
+52
+
+--- Page 61 ---
+
+• On A'A' set of A'1, 1-2, 2-3 etc. equal to the side of
+the hexagon.
+• Through A', 1,2,3 etc, draw vertical lines meet at AA,
+1',2',3' etc to complete the required lateral surface
+development of the hexagonal prism.
+4 Draw the development of surfaces of the box. (Fig 4)
+6 Draw the development of the lateral surface of an open
+cylindrical drum of dia 30 mm and height is 60 mm.
+(Fig 6)
+• Draw the plan and elevation of the drum as stated.
+• Project the front view and draw the side view to a
+• Assume there is no slope surface and draw the
+length of circumference of the base of the cylinder.
+development of cube of side 60 mm as given in Fig4.
+Circumference = π D = π x 30 mm = 94.26 or 94.3
+• Draw lines PQ and RS in the surfaces 1 and 3 in the
+basic development equivalent the shape shown in Rectangle thus formed is the development of cylinder.
+the isometric view of the box.
+• Similarly join a rectangle of size equal to the surface
+7 shown in isometric view with line RS or PQ and
+complete the development after erasing the
+construction lines.
+5 Draw the development of a rectangular prism as stated
+under and as shown in Figure. Prism is cut by a cutting
+plane at 30°, 30 mm from base on width side. (Fig 5)
+• Draw the top view and front view of the rectangular
+prism.
+• Mark 30 mm on front view from b' (c') to meet the line
+b'b' at m'
+1
+• At m' make an angle of 30° such that the cutting
+7 Draw the development of a cone of base 60 mm and
+plane meet the line a'-a' at n'.
+1' height 40 mm. (Fig 7)
+• Project b', m', n' horizontally and mark of AB = 35,
+• Draw the plan and elevation of the cone.
+BC = 15, CD = 35 & DA = 15 mm.
+• Divide the plan circle into number of equal parts (say
+• From A,B,C,D,A of the front view, draw vertical lines
+12 parts) and mark.
+and mark points 3, 4,1,2 & 3.
+• Draw 1-4' and 2-3' perpendiculars to 1-2 equals to 15 Development is more accurate if the number of
+mm and draw CB & DA perpendicular to CD and equal parts are more.
+1 1
+equals to 15 mm.
+• Project these parts to the base of the cone.
+• Darken the lines throughout the development of the
+• Join these points to the vertex of the cone.
+given prism.
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.16 53
+
+--- Page 62 ---
+
+• Locate O vertex for the development of cone.
+1
+• Draw an arc from the vertex as centre and length of
+slope as radius.
+• Set divider on the straight distance between two
+consecutive points on the plan.
+• Transfer the distance along the arc as many times
+according to the divisions on the plan.
+• Join points 1 O 1and complete the development.
+1
+This method is only an approximate method.
+The straight line distance taken is slightly
+smaller than the arc length. More accurate
+method is by calculating actual circumference
+and dividing it into number of segments.
+9 Draw the development of the lateral surface of the cone
+as positioned. (Fig 8)
+12 Draw the development of the lateral surface of the
+• Draw the views of the cone and cutting plane on it. frustum of a square pyramid as positioned. (Fig 9a)
+• Divide the base into any number of equal parts, say
+12 and mark them.
+• Project the points on to FV and join to the apex.
+• Mark the points on the cutting plane and draw lines
+parallel to base, touching the generator at 1 ,2 ....7.
+1 1 1
+These are the true lengths from 0'.
+• Draw the sector with slope as radius.
+radius of cone base circle
+Sector angle θ = x 360°
+Slant height length (s)
+• Mark O and set angle θ.
+1
+• Transfer the true lengths on the cone on to the
+sectors and join by smooth curve.
+The area between this curve and the arc is the development
+of the lateral surface.
+54 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.16
+
+--- Page 63 ---
+
+• Draw the front view and plan of the pyramid. (Fig 9b) • The parts (A & B)of the funnel are in the shapes of
+None of lines in these views show the true length of frustum of cones.
+slant edge.
+• Development of cone and frustum of cone are
+• Transfer OP in plan to xt in front view. Join o't' by already dealt in earlier exercises. Follow the previous
+straight line. o't' is the true length of slant edge. procedures and draw the developments of both parts
+A and B.
+• With `O' as centre draw the development of whole
+pyramid. (Follow the steps of the exercise 10) Formula for finding angle
+• With `O' as centre set off OA, OB, OC, OD & OA Radius of base cone circle
+  x 360
+equal to O'U' in front view. (Fig 9c)
+Slant height
+• Join AB, BC, CD, DA. Surface bounded by
+11 The cylinders A & B are positioned as shown, (Fig 11)
+ABCDATSRQP is the development.
+intersects each other at right angles. Draw the plan,
+10 Draw the development of the lateral surface of a funnel elevation, side view and show the curve of intersection.
+as positioned. (Fig 10)
+12 Draw the three views of cylinder `A' as shown in
+position. (Fig 12)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.16 55
+
+--- Page 64 ---
+
+• Draw the side view of the cylinder `B', as circle of • Draw horizontal projectors on to the vertical cylinder
+diameter equals to 40 mm, such that its centre is the (A).
+mid-point of the axis of cylinder `A'.
+• The line 1 - 1 in top view intersects the circle at p
+1 1
+• Divide the circle into 12 equal parts and number & q .
+1
+them.
+• Draw vertical projectors from these intersection
+• Draw the front view and top view of cylinder `B' points P & q to intersect the line 1'1', in front view
+1 1
+projecting from the side view of the horizontal cylinder. at p' and q ' respectively.
+1 1
+Note: Consider that a number of horizontal section planes • Considering the second horizontal plane 2 2 in top
+1
+passing through the generators of the horizontal cylinder to view, obtain the corresponding point in the front view
+cut both cylinders. For all the horizontal sectional planes, P' (p' , q' ) and q' .
+2 12 12 2
+the sectional top view will always be a circle of `n' diameter.
+• Repeat the same procedure for other series of
+Also the sectional top view of the vertical cylinder will be a
+section planes passing through generators, obtain
+circle of `m' diameter.
+intersection points in front view.
+• Draw series of cutting planes on the end view of
+Join the obtained intersection points in the front view by a
+cylinder `B'.
+smooth curve, which is the curve of intersection of cylinders
+A & B as stated.
+56 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.3.16
+
+--- Page 65 ---
+
+Group 9 - Engineering Trades Exercise 1.4.17
+Engineering Drawing
+Dimensioning - Types of arrow heads and leader line with text
+Dimension line: These are thin continuous lines,
+terminated at ends by arrowheads, dots or oblique lines
+touching the extension line. (Fig 1)
+A dimension line may cut or cross another dimension line Dimension to the hidden lines be avoided. (Fig 2)
+where there is no other way.
+Arrowheads may be placed outside where space is included angle between 15° and 90°. They may be open,
+insufficient. closed or closed and filled in. Oblique strokes are drawn as
+short lines inclined at 45°. (Fig 1)
+Leader line: It is a thin continuous line. It connects a note
+or dimension with the features to which it applies. (Fig 2) Indicating dimensional values on drawings: All
+dimensional values shall be shown on drawings in characters
+Termination and Origin indication: The size of the
+of sufficient size to ensure complete legibility on the
+terminations (arrowheads/oblique strokes) shall be
+original drawings as well as on reproductions made from
+proportional to the size of the drawing. Only one style of
+micro-filming.
+arrowhead shall be used on a single drawing. However,
+where the space is too small for the arrowheads, it may be They shall be placed in such a way that they are not
+substituted by a dot or by an oblique line. Arrowheads are crossed or separated by any other line on the drawing.
+drawn as short lines forming barbs at any convenient
+57
+
+--- Page 66 ---
+
+Group 9 - Engineering Trades Exercise 1.4.18
+Engineering Drawing
+Dimensioning - Position of dimensioning (aligned, unidirectional)
+Definitions related to dimensioning Methods of indicating values
+Dimension: It is a numerical value expressed as an
+Methods of indicating values: There are two methods
+appropriate unit of measurement and indicated graphically
+used for indicating the values. Only one method should be
+on technical drawings with lines, symbols and notes.
+used on anyone drawing.
+Size dimensions: Gives the size of a component, part,
+Method 1 Aligned system
+hole, slot, depth, width, radius etc.
+Dimensional values shall be placed parallel to their
+eg: L1, L3, H, h1, S etc. (Fig 1)
+dimension lines and preferably near the middle, above and
+clear of the dimension line. However, values shall be
+indicated so that they can be read from the bottom of the
+the right-hand side of the drawing. Dimension lines should
+not be broken. Dimensioning of angles is also given in the
+same way. (Fig 1) This method is known as an aligned
+system of dimensioning.
+Location dimension: Gives or fixes the relationship of the
+features. viz centre of holes, slots and any significant
+forms. (Fig 1)
+eg: L4, L5, L6
+Feature: It is an individual characteristic such as a flat Method 2 Unidirectional system
+surface. Cylindrical surface, shoulder, screw thread, a slot,
+Dimensional values shall be indicated so that they can be
+a curve or profile etc. (Fig 2)
+read from the bottom of the drawing sheet. Non-horizontal
+dimension lines are interrupted, preferably near the middle
+so that the value can be inserted. (Fig 2). This method is
+termed a unidirectional system of dimensioning.
+Extension line: It is a thin line projecting from the feature
+and extending beyond the dimension line. (Fig 3)
+Arrangement and indication of dimensions
+The arrangement of dimensioning on a drawing shall
+indicate clearly the design purpose.
+The arrangements of dimensioning are:
+• Chain dimensioning
+• Dimensioning from a common feature
+• Dimensioning by co-ordinates
+• Combined dimensioning.
+58
+
+--- Page 67 ---
+
+Chain dimensioning: It is used where the possible
+accumulation of tolerances does not infringe (effect) on the
+functional requirement of the component. (Fig 3)
+Dimensioning from a common feature is used where
+several dimensions of the same direction relate to a
+common origin.
+Dimensioning from a common feature may be executed as
+parallel dimensioning or as superimposed running
+dimensioning.
+Parallel dimensioning: Dimensions of features are taken
+from one datum/common origin and are shown parallel to
+another and placed so that the dimensional values can
+easily be added in Fig 4. When the drawing is clear, symbols or abbreviation viz. dia,
+Pcd and angle can be omitted. (Fig 8)
+Combined dimensioning: Dimensions are given in chain
+dimensioning and parallel dimensioning. The common
+feature is combined. (Fig 5)
+Dimensioning periphery: The features on the periphery
+can be shown as given in the figure, indicating width, depth
+and number of slots. (Fig 9)
+Dimensioning a chord: For dimensioning of the chord,
+refer Fig 6. It is shown as linear size.
+Dimensioning an arc/radius: A small arc is shown over
+the dimension value, while dimensioning an arc. (Fig 7)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.4.18 59
+
+--- Page 68 ---
+
+Group 9 - Engineering Trades Exercise 1.4.19
+Engineering Drawing
+Practice of dimensioning
+1 To the given drawing of the profile sheet metal as shown
+in Fig 1, place the dimensions in the aligned system.
+(Fig 1a)
+• Draw the drawing of the sheet metal to 1:1 scale.
+• Draw the extension lines in continuation of outlines.
+• Draw the dimension lines. (Fig 1b)
+• Place the dimension value near the middle and
+above the dimension line to be read from "bottom
+and right hand side" of the drawing.
+3 Draw the two sheet metal templates to full scale with
+appropriate lines use 0.5 range line thickness. (Fig 3)
+• Draw a rectangular block of length 80 mm and width
+50 mm in thin lines.
+• Incorporate the features of the template as per the
+given dimension.
+• Draw by thick lines all visible outlines.
+• Give dimensions and maintain the line thickness as
+per the line range (0.5).
+• Complete the figure and remove the unwanted lines.
+2 To the given drawing of the profile sheet metal as shown
+in Fig 2a, give the dimensions in the unidirectional
+system. (Fig 2b)
+• Place the horizontal dimensions above and middle
+of the dimension line without break.
+• Break the dimension in the middle of all non-
+horizontal dimension lines. (Fig 2b)
+60
+
+--- Page 69 ---
+
+4 Draw the figures given. Maintain the types of lines as per
+the B.I.S and choose correct line thickness. (Fig 4)
+• According to the given dimensions, draw the figures
+given in Fig 4.
+• Select the appropriate lines and maintain uniformity.
+• Remove (erase) unwanted lines, arcs and complete
+the drawing.
+Note: Draw the dimension line terminations as
+per IS:11669-1986.
+5 The motor cycle engine gasket is shown in figure 5.
+There are some mistakes in dimensioning. Reproduce
+the same in the A3/A4 sheet provided and correct the
+mistakes according to the aligned system of
+dimensioning. (Fig 5)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.4.19 61
+
+--- Page 70 ---
+
+6 Draw the given cover plate and give the dimensions in 7 Draw the cover plate given in the figure and place the
+the aligned system. (Fig 6) dimensions in the unidirectional system. (Fig 7)
+62 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.4.19
+
+--- Page 71 ---
+
+Group 9 - Engineering Trades Exercise 1.5.20
+Engineering Drawing
+Concept and reading of drawing in - Concept of axes plane and quadrant
+An engineering drawing conveys many different types of
+information of which the most important thing is the shape
+of the object. Fig 1 shows a sample drawing. In this
+drawing, the shape of the part is represented by three
+views.
+Projection: Projection is a commonly used term in
+draughtsman's vocabulary. In the context of engineering
+drawing, projectors mean images.
+Projections or images can also be formed in between the
+eyes and the object by keeping a transparent plane.
+(Fig 4)
+For an untrained person, it will be very difficult to conceive
+the shape of the object from the above drawing.
+But in Fig 2, the same object is shown pictorially in a
+different way and the shape is easily understood even by
+a layman.
+Figure 1 is called a Multiview drawing or Orthographic
+drawing and figure 2 is called a pictorial drawing.
+Fig 3, wherein a cube with a circular hole is represented
+pictorially. We know that all corners of the cube are 90°.
+In this figure 4, the rays from the object converge to the
+But in the pictorial drawing in Fig 3, the same 90° is
+eyes and this image (Projection) is smaller than the object.
+represented at some places by acute angles and some
+However, if the rays are parallel as in the case of rays
+other places by obtuse angles.
+coming from the sun, the image (Projection) will be of the
+same size as that of the objects. Such a projection is called
+63
+
+--- Page 72 ---
+
+orthographic projection. The parallel lines/rays drawn from
+the object are called projectors and the plane on which the
+image is formed is called the plane of projection. In
+orthographic projection, the projectors are perpendicular to
+the plane of projection. (Fig 5)
+To draw two views of an object, we assume that the object
+is placed in any one of the quadrant/angles, 1st angle & 3rd
+angle (Fig 8a & 9a) and its top and front view are projected
+An orthographic system of projection is the method of to the respective planes.
+representing the exact shape and size of a three-
+Now to make it possible to draw the two views (Front & Top
+dimensional object on a drawing sheet or any other plain
+view) in one plane i.e the plane of the drawing paper, the
+surface such as a drawing board.
+horizontal plane is assumed to be unfolded in a clockwise
+A single orthographic view of an object will show only two direction through 90° (Fig 8b & 9b). We proceed this way
+of its three dimensions. The view in figure 6 shows only the when the views are made. When the object is placed in the
+length and height of the object alone. 2nd or fourth quadrant the front and top will get superimposed
+(one upon the other) (Fig 10a & b).
+Therefore, it becomes necessary to have an additional view
+to show the missing dimensions (width). Hence, we have
+to make two views to represent the three dimensions of an
+object.
+The two views thus required are to be obtained on two
+different planes which are mutually perpendicular (one HP
+and one VP) with the object remaining in the same position.
+The projection or the view obtained on the horizontal plane
+is called the top view or plan and the view obtained on the
+vertical plane is called elevation.
+First angle and third angle projection: One vertical plane
+(VP) and one horizontal plane (HP) intersect at right angles Due to this reason, the 2nd and 4th angles are not used for
+to each other. (Fig 7) making engineering drawings as the three dimensions
+cannot be easily identified. Hence for representing the
+All four quadrants have one HP and one VP formation. As
+three dimensions of the object, we assume the object is
+per convention in mathematics, the quadrants are numbered
+placed either in the 1st angle or in the 3rd angle
+as 1st, 2nd, 3rd and 4th. These four quadrants are called four
+(Fig 11&12) respectively.
+dihedral angles, namely 1st angle, 2nd angle, 3rd angle and
+4th angle.
+64 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.5.20
+
+--- Page 73 ---
+
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.5.20 65
+
+--- Page 74 ---
+
+Group 9 - Engineering Trades Exercise 1.5.21
+Engineering Drawing
+Concept and reading of drawing in - Concept of orthographic projection and
+isometric projection
+Concept of Orthographic projection In this exercise, the faces of the prism are parallel to the
+planes of projection. Therefore all the line's orthographic
+Method 1
+projections are vertical and horizontal only.
+Draw the orthographic projection (front, top and side views)
+Visualise the shape of the object and imagine the shape
+of the square sheet (40 mm side) kept perpendicular to HP
+description of views. Surface ABCD (Fig 2B) is only visible
+and parallel to VP. (I angle) (Fig 1)
+from the elevation. At the same time, all four sides of ABCD
+are isometric lines. Therefore in the elevation, a rectangle
+of 40 x 30 mm is seen.
+• Draw the XY line.
+• Draw the square with its centre 40 mm above the XY line
+and one edge parallel to the XY line.
+• Mark the corners of the figure a', b', c' & d'. This will be
+the front of the square.
+• Draw the vertical projectors from a'b' downward beyond
+the XY line.
+• Draw a horizontal line dc at a distance of 20 mm below
+the XY line. Line dc will be the plan.
+• Draw a X'Y' line at a convenient distance from b'c',
+intersecting the XY line at `0'.
+• Project the top to the X Y line meeting at e.
+• By arc method transfer Oe to XY and mark the point `f' • Draw XY line of convenient length. (Fig 2B)
+at a" and d" respectively. Now the line a"d" is the side • Draw a rectangle a'b'c'd' on the XY line. This will be the
+view. front view of the prism.
+Method 2: Rectangular prism • Project the vertical sides of the front view (a'd' and b'c')
+downwards beyond the XY line.
+Draw the Top, Front and side views of the rectangular prism
+of base 30 x 20 mm and height 40 mm. (Fig 2A) • Draw a horizontal line fg approximately 20 mm below
+the XY line.
+66
+
+--- Page 75 ---
+
+• Draw a rectangle fgba of 30 x 20 mm size. This will be In this problem, the circular faces are parallel to VP.
+the plan of the prism. Therefore the front is a circle resting on the XY line. Plan
+and end views are rectangles of size 30 mm x 20 mm.
+• Project points b' and c' horizontally a convenient length
+to the right side of the elevation. • Draw the circle of diameter 20 mm touching the XY line.
+(Fig 3B)
+• Transfer the width of the top view GB by the arc and
+locate points e"d" on the XY line. • Draw the plan projecting it from the elevation.
+• Project e"d" vertically up and locate points f"a"d"e" is • Draw the end view by drawing a projection on it, from the
+the left side view of the prism. plan and elevation.
+• Draw the top, front and side views of a cylinder whose
+Method 3 : Cylinder
+base diameter is 35 mm and height 50 mm when its
+Draw the top, front and side view of a cylinder of diameter position is as shown in Fig 3C.
+20 mm and length of 30 mm. (Fig 3A)
+Method 4: Cone
+Draw the multi-views of the cone shown in Fig 4A. Follow
+the procedures of the earlier exercises and draw the multi-
+views. (Fig 4B)
+Method 5
+Identify the surfaces of the block shown in the isometric
+view with the corresponding multi-views and fill the numerals
+in the given tabulation column. (Fig 5)
+The surfaces are parallel and perpendicular to the plane of
+projection.
+• Study the isometric view and the corresponding multi-
+views carefully.
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.5.21 67
+
+--- Page 76 ---
+
+• You may observe that the surfaces seen in one view are
+represented by lines in the other two views.
+• In this exercise, the surface `A' shown in the isometric
+view is seen as a line in the front elevation and numbered
+as `5' in the front view of the corresponding multi-views.
+• The same surface `A' in the side view is seen as a line
+and numbered `6' in the side view of the multi-views.
+• Similarly, the surface `A' seen from the top of the
+isometric views is numbered as `10' in the plan of the
+multi-views, whereas the full surface area is visible.
+When a surface is parallel or perpendicular to the plane of
+projection vice-versa in a multi-views drawing, the full area
+of the surface will be seen in anyone the three views (plan,
+elevation and side view) and in the other two views, the
+corresponding line of the surface will be seen.
+Method 6
+Draw the isometric view (Fig 6) and also draw the three
+views in the workbook.
+The orthographic projection shows the shape of a component
+by drawing several views each looking at a different side of
+the component.
+A minimum of two views are required to represent a
+component. To clarify the internal and external details a
+minimum of three views are to be drawn. They are:
+• Elevation or Front view or Front elevation. (F)
+• Plan or Top view. (P)
+• Side view or side elevation or end elevation. (S)
+In Fig 6, surface `A' is only seen when looking at the front
+of the figure. All the lines in the isometric view are isometric.
+Therefore in the orthographic projection, the front view will
+be like this. (Fig 7)
+In the plan surfaces `C', `D' and `F' are visible and the
+bottom surface will not visible. The line joining the two
+surfaces will not be visible. The line joining the surfaces will
+appear in the plan as a hidden line. (Fig 8)
+In the side view surface `B' is visible and surfaces `E' and
+back bottom surfaces are invisible. Due to this reason the
+line joining `D' and `E', also the line joining back bottom
+surfaces are appearing in the side view by a hidden line.
+(Fig 9)
+68 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.5.21
+
+--- Page 77 ---
+
+Pictorial drawing (isometric drawing)
+Pictorial drawing: Even a common man can understand
+easily the shape of an object quickly by a picture or by a
+pictorial drawing. It is also called three-dimensional drawing.
+Pictorial drawings are very useful for describing the shape
+of a piece part or component, even though they have a
+distorted look.
+Three types of pictorial drawings are (Fig 1)
+• Isometric drawing
+• Oblique drawing
+• Perspective drawing
+Out of the above three types, isometric drawings are very
+much preferred by machine shops and metalworking • Draw two vertical lines parallel to the line AH through
+trades groups. But perspective drawings are popular in the points B and D.
+civil engineering group of trades.
+• Similarly draw two more lines parallel to AB and AD
+through point H.
+• Mark G and E the intersecting points.
+• Draw lines parallel to GH and HE through points G and
+E intersecting point is F.
+• Draw lines parallel to AB & AD through points D and B
+respectively intersecting at C.
+• Join CB & CD with dash lines.
+• Join F and C also with dash lines.
+• Rub off the construction lines and complete the prism.
+2 Stepped block - 1
+Draw the isometric view of the stepped block given in
+Fig 2.
+Isometric drawing
+Procedure • Draw the isometric view of a rectangular prism of
+dimensions equal to the overall size of the block 45 x 25
+1 Rectangular prism
+x 30 mm.
+Draw the isometric drawing of a rectangular prism of
+• Draw the lines JD, DE, EF, FH, HI and IJ using the
+base 15 mm x 30 mm and the height of 50 mm. (Fig 1)
+measurements given in the figure.
+• Draw the three isometric axes through point `A'.
+• Rub off SR, RD, SJ, SH and RF.
+• Mark AB = 15 mm, AD = 30 mm and AH = 50 mm
+• Darken the remaining lines of the stepped block.
+representing the three sides of prism.
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.5.21 69
+
+--- Page 78 ---
+
+3 Stepped block - 2 With the experiences gained in previous exercises of
+drawing isometric views, draw the following exercises 4 &
+Draw the isometric view of the components shown. (Fig 3)
+5 and complete the same.
+• Draw the stepped block as per dimension. Follow the
+Practice 1 to 3 (Figs 4,5 &6)
+procedure given in the previous Ex. No.2.
+• Mark points to UTSV as per dimension on the top of the
+surface EDGF (Fig 3b)
+• Join points UTSV.
+• Project vertically downwards from the points UTSV and
+obtain the point WXYZ at the bottom surface such that
+UW, TX, SY & VZ are equal to 10 mm. Join the point
+WXYZ and draw the thick lines which are all visible and
+dotted lines that are not visible
+All construction lines should be in thin lines.
+After completion of the isometric views, in
+each case erase the unwanted lines and
+construction lines.
+70 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.5.21
+
+--- Page 79 ---
+
+Draw the isometric view of the machined block having non-
+isometric lines. (Fig 6)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.5.21 71
+
+--- Page 80 ---
+
+Group 9 - Engineering Trades Exercise 1.5.22
+Engineering Drawing
+Method of 1st angle and 3rd angle projections (Definition and difference)
+Symbol of 1st angle and 3rd angle projection as per IS specification
+1 a Draw the symbol for 1st angle projection as per IS 2 a Draw the symbol for 1st angle projection as per IS
+specification, if bigger dia D is 50 mm. specification, if smaller dia D/2 is 20 mm.
+b Draw the symbol for 3rd angle projection as per IS b Draw the symbol for 3rd angle projection as per IS
+specification, if bigger dia D is 40 mm.
+specification, if smaller dia D/2 is 15 mm.
+72
+
+--- Page 81 ---
+
+Method of 1st angle and 3rd angle projections The placement of the front and top views when the horizontal
+plane is unfolded will be different in these two systems. It
+1st Angle projection (Fig 1)
+may be observed in Fig 3, that the first angle projection plan
+(top views) will be directly below the front view (Fig 4),
+whereas in 3rd angle projection top view lies directly above
+the elevation. (Fig 5)
+Views can be drawn in any one of these two methods.
+However Indian Standard (BIS) has recommended the first
+angle method to be used in our country.
+3rd Angle projection (Fig 2)
+The two views thus required are to be obtained on two
+different planes which are mutually perpendicular (one HP
+and one VP) with the object remaining in the same position.
+The projection or the view obtained on the horizontal plane
+is called the top view or plan and the view obtained on the
+vertical plane is called elevation.
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.5.22 73
+
+--- Page 82 ---
+
+Group 9 - Engineering Trades Exercise 1.6.23
+Engineering Drawing
+Symbolic representaion - Different symbols used in the sheet metal trade
+74
+
+--- Page 83 ---
+
+Different operations of bend by press brake (Fig 15)
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.6.23 75
+
+--- Page 84 ---
+
+Practice on snap locked seam (Fig 16)
+76 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.6.23
+
+--- Page 85 ---
+
+Group 9 - Engineering Trades Exercise 1.7.24
+Engineering Drawing
+Reading of job drawing related to sheet metal trade
+Read and write the following. (Fig 1) Read and write the following. (Fig 5)
+1 Which type of notch used for making rectangular box? 1 What is the name of Duct?
+2 What is the name of joining?
+3 What is the purpose of notch?
+Read and write the following. (Fig 6)
+1 Where rectangular duct used?
+2 Why the ridges are provided in the duct?
+Read and write the following. (Fig 2)
+1 What are the joints are in Duct work?
+2 What are the folding in the ducting and write the name?
+3 What are the bending in duct and write the name?
+4 What is the use of duct?
+Read and write the following. (Fig 7)
+1 What is the name of joint ‘A’?
+2 What is the name of joint ‘B’?
+Read and write the following. (Fig 3)
+1 What is the types of notch?
+Read and write the following. (Fig 8)
+1 What is the name of the joint ‘A’?
+Read and write the following. (Fig 4)
+1 What type of notch used in the Fig 4?
+2 What is thename of acitivity?
+Read and write the following. (Fig 9)
+1 Write the name of ‘A’?
+2 Write the name of ‘B’?
+3 Write the name of ‘C’?
+77
+
+--- Page 86 ---
+
+4 Write the name of ‘D’?
+5 Write the name of ‘E’?
+6 Write the name of ‘F’?
+Read and write the following. (Fig 14)
+1 What is the name of ‘C’?
+2 What is the name of ‘D’?
+3 What does X refers?
+Read and write the following. (Fig 10)
+1 Why G.I wire to be inserted?
+Read and write the following. (Fig 15)
+1 What is the name of joint?
+Read and write the following. (Fig 11) 2 What does ½T refers?
+1 What is the name of activity?
+Read and write the following. (Fig 16)
+Read and write the following. (Fig 12)
+1 What is the name of joint?
+1 What is the name of hammer?
+2 What is the angle of ‘A’?
+2 What is the name of tool ‘A’?
+Read and write the following. (Fig 13)
+1 What is the angle of slant notch?
+78 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.7.24
+
+--- Page 87 ---
+
+Read and write the following. (Fig 17) Read and write the following. (Fig 19)
+1 What is the name of joint? 1 What is the meaning of flange joint?
+2 What is the angle of joint?
+Read and write the following. (Fig 20)
+Read and write the following. (Fig 18) 1 What is the name of bend?
+1 What is the name of joint? 2 What is the angle of ‘A’?
+3 What is the angle of ‘B’?
+Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.7.24 79
+
+--- Page 88 ---
+
+Read and write the following. (Fig 21) 3 What is the name of joints ‘C’?
+1 What is the name of joints ‘A’? 4 What is the name of joints ‘D’?
+2 What is the name of joints ‘B’? 5 What is the name of joints ‘E’?
+80 Engineering Drawing : (NSQF - Revised 2022) 1 Year Group 9 : Exercise 1.7.24

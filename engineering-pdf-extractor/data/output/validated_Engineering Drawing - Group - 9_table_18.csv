@@ -1,0 +1,8 @@
+Exercise_No,Topic,Page_No,valid_exercise_no,missing_topic,missing_page
+05,TIGHTENING PIN,01,False,False,False
+04,WORK PIECE,01,False,False,False
+03,SCREW ROD,01,False,False,False
+02,“U” CLAMP,01,False,False,False
+01,“V” BLOCK,01,False,False,False
+PART NO,DESCRIPTION OF ITEM,QTY/ASSY,False,False,False
+BILL OF MATERIALS,nan,nan,False,False,False

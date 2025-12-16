@@ -1,0 +1,11 @@
+Field_1,Field_2,Field_3
+Width,Letters/Numerals,Width
+(W),,
+1,i,1d
+3,"j,l",3d
+4,"f,t,l",4d
+5,"c,r",5d
+6,"a,b,d,e,g,h,k,n,o,p,q,s,u,v;3;5",6d
+7,"a,0 (zero), 2,4,6,7,0,8,9",7d
+9,m,9d
+10,w,10d
